@@ -1,0 +1,791 @@
+name,type,producers,expect,played,tags
+GTA5,动作游戏,Rockstar Games,29634,11639, 沙盒 第三人称视角 射击 多人 角色扮演 冒险 竞速
+方舟：生存进化,动作角色扮演,Wildcard/Wildcard、蜗牛游戏,31573,6366, 生存 沙盒 恐龙 龙 冒险 多人 建筑
+绝地求生,第一人称射击,PUBG Corporation,27655,6348, 大逃杀 生存 电子竞技 沙盒 第三人称视角 玩家对战 多人
+堡垒之夜,第三人称射击,Epic Games,25994,3626, 生存 大逃杀 沙盒 多人
+正当防卫3,第三人称射击,Avalanche Studios/Square Enix,13696,2510, 射击 沙盒 冒险 探索 合作 欢乐 跑酷
+怪物猎人：世界,动作游戏,"CAPCOM Co., Ltd.",7622,6113, 奇幻 狩猎 冒险 沙盒 角色扮演 探索 合作
+尼尔：机械纪元,动作角色扮演,白金工作室/Square Enix,7459,3969, 科幻 美少女 角色扮演 角色动作 好评原声音乐 剧情丰富 氛围
+刺客信条：起源,动作游戏,Ubisoft Montreal/Ubisoft,8098,3297, 开放世界 动作 角色扮演 剧情丰富 历史题材 潜入 跑酷
+塞尔达传说：荒野之息,动作游戏,任天堂,5000,5825, 沙盒 奇幻 3D
+火影忍者疾风传：究极忍者风暴4,格斗游戏,Cyber Connect2/Namco Bandai,9244,1475, 忍者 动作 日本动画 冒险 在线合作 开放世界 带状卷轴动作
+龙珠：超宇宙2,格斗游戏,NBGI/BANDAI NAMCO Entertainment,8820,1570, 局域网联机 改编 单人 格斗 自创角色 第三人称视角 多人
+孤岛惊魂5,第一人称射击,Ubisoft,5819,3216, 沙盒 合作 多人 自创角色 冒险 美国 单人
+使命召唤14：二战,第一人称射击,Sledgehammer Games/Activision,5180,3002, 二战 单人战役 历史题材 高画质 多人联机 动作 互动电影
+看门狗2,动作游戏,Ubisoft,5743,2339, 射击 冒险 第三人称视角 动作 开放世界 单人 跑酷
+真三国无双8,动作游戏,ω-Force/KOEI,6223,1455, 三国 沙盒 动作 砍杀 历史 开放世界 多人
+模拟人生4,模拟游戏,The Sim Studio/EA,6670,948, 3D
+漫威蜘蛛侠,动作游戏,Insomniac Game/索尼,6197,1399, 漫画英雄 3D 改编 沙盒
+战神4,动作游戏,索尼圣莫妮卡/索尼,4837,2617, 奇幻 北欧神话
+荒野大镖客：救赎2,第三人称射击,Rockstar,4280,2239, 西部风格 沙盒 3D
+巫师3：狂猎,动作角色扮演,CD Projekt RED/CD Projekt,2426,3960, 奇幻 沙盒 中世纪 开放世界 剧情丰富 单人 冒险
+饥荒,冒险游戏,Klei Entertainment,4597,1609, 沙盒 生存 冒险 单人 多人 开放世界 可模组化
+上古卷轴5：天际,角色扮演,Bethesda,3194,2610, 奇幻 沙盒 角色扮演 冒险 龙 开放世界 自创角色
+神秘海域4：盗贼末路,动作游戏,Naughty Dog/SCE,4141,1219, 3D
+古墓丽影：暗影,动作游戏,Eidos Montreal/Square Enix,3849,1175, 潜入暗杀 生存 3D
+火影忍者疾风传：究极忍者风暴3,格斗游戏,Cyber Connect2/Namco Bandai,4441,480, 忍者 动作 单人 开放世界 日本动画 合作 带状卷轴动作
+生存之旅2,第一人称射击,Valve,4205,638, 生存 丧尸 局域网联机 低配置 第一人称射击 生存恐怖 射击
+极品飞车20：复仇,竞速游戏,Ghost Games/EA,4042,647, 赛车 竞技 互动电影 女主人公
+三国群英传7,策略游戏,宇峻奥汀/游戏天堂,4264,416, 三国
+孤岛惊魂：原始杀戮,第一人称射击,Ubisoft,3806,794, 沙盒 单人 狩猎 冒险 射击 动作 开放世界
+底特律：变人,冒险游戏,Quantic Dream/索尼,3749,825, 科幻
+植物大战僵尸：花园战争,第三人称射击,Popcap Games/Electronic Arts,3842,575, Q版 丧尸
+星露谷物语,角色扮演,ConcernedApe/Chucklefish,2980,1156, 独立游戏 像素 开放世界 模拟 建造 沙盒 工艺
+消逝的光芒,第一人称射击,Techland/Warner Bros.,3245,875, 丧尸 恐怖 生存恐怖 沙盒 射击 动作 合作
+古墓丽影：崛起,动作游戏,Crystal Dynamics/Square Enix,2393,1679, 潜入暗杀 潜行 快速反应事件 女主人翁 跑酷 劳拉·克劳馥 探索
+战地1,第一人称射击,EA DICE/EA,2515,1471, 一战 3D 沙盒
+森林,动作游戏,Endnight Games,2989,959, 生存 恐怖 生存恐怖 建造 探索 开放世界 工艺
+超级马里奥：奥德赛,角色扮演,任天堂,2599,1288, 3D 奇幻 沙盒
+NBA 2K18,体育游戏,2K Sports/2K Games,2994,890, 篮球 体育 拟真 单机多人 免费 多人 单人
+古墓丽影9,动作游戏,Crystal Dynamics/Square Enix,2830,1052, 生存 硬件杀手 奇幻 角色扮演 第三人称视角 潜行 多人
+虐杀原形,动作游戏,Radical Ent/Activision,3043,699, 科幻 动作冒险 砍杀 单人 开放世界 丧尸 冒险
+黑暗之魂3,动作角色扮演,"FromSoftware/FromSoftware, Inc.,BANDAI NAMCO Entertainment",1406,2336, 奇幻 玩家对战 开放世界 单人 剧情丰富 合作 第三人称视角
+龙珠：超宇宙,格斗游戏,NBGI,3133,567, 局域网联机 改编
+GTA4,动作游戏,Rockstar Games,3093,564, 沙盒 冒险 物理 合作 动作 第三人称视角 保龄球
+生化危机7,动作游戏,CAPCOM,2392,1236, 丧尸 恐怖 科幻 VR 生存恐怖 射击 冒险
+人渣,动作游戏,"Gamepires,Croteam/Devolver Digital",3023,590, 生存 第三人称视角 冒险 拟真 开放世界 免费 多人
+狙击精英4,第三人称射击,Rebellion,2711,816, 二战 狙击手 战术 射击 单人 开放世界 冒险
+逆水寒,动作角色扮演,网易,1218,2280, 国产 剑侠 武侠 改编
+极限竞速：地平线3,竞速游戏,Playground Games/Microsoft,2631,670, 赛车 竞速 3D
+彩虹六号：围攻,第一人称射击,育碧,1264,2034, 电子竞技 现代战争 大型多人在线 在线合作 拟真 策略 团队导向
+辐射4,角色扮演,Bethesda,2117,1157, 末世 科幻 剧情丰富 冒险 生存 VR 第三人称视角
+我的世界,益智游戏,Mojang Studio、Microsoft/网易游戏,2015,1182, 生存 沙盒 像素 局域网联机
+刺客信条：奥德赛,动作游戏,育碧,1785,1367, 开放世界 动作 历史题材 潜入 剧情丰富 第三人称视角 冒险
+龙珠斗士Z,格斗游戏,Arc System Works/BANDAI NAMCO Entertainment,2618,440, 2D 改编 控制器 竞技 带状卷轴动作 剧情丰富 假3D
+人类：一败涂地,冒险游戏,No Brakes Games,2474,533, 独立游戏 解谜 奇幻 单机多人 多人 模拟 平台解谜
+真三国无双5,动作游戏,Omega Force/Koei,2601,297, 三国
+虐杀原形2,动作游戏,Radical Ent/Activision,2357,449, 单人 动作 丧尸 暴力 砍杀 跑酷 超級英雄
+和班尼特福迪一起攻克难关,动作游戏,Bennett Foddy,2394,372, 虐心 魔性 网络爆红 物理 哲理 搞笑 第三人称视角
+巫师3：狂猎年度版,动作角色扮演,CD Projekt RED/CD Projekt,1149,1591, 沙盒 奇幻 中世纪
+使命召唤15：黑色行动4,第一人称射击,Treyarch/Activision,1787,951, 未来战争 大逃杀 多人 丧尸
+最终幻想15,角色扮演,Square Enix,1190,1534, 奇幻 3D 沙盒 开放世界 冒险 在线合作 好评原声音乐
+魔兽争霸3：冰封王座,即时战略,Blizzard,1677,1023, 电子竞技 局域网联机 奇幻
+植物大战僵尸：花园战争2,第三人称射击,Popcap/Electronic Arts,2272,403, Q版 丧尸
+地平线：黎明时分,动作游戏,Guerrilla Games/索尼,1328,1335, 科幻 末世 3D
+看门狗,动作游戏,Ubisoft,1821,703, 沙盒 硬件杀手 射击 合作 未来 氛围 潜行
+泰坦陨落2,第一人称射击,Respawn/EA,1871,631, 未来战争 科幻
+腐烂国度2,第三人称射击,Undead Labs/Microsoft Game Studios,2265,210, 生存 末世 丧尸 多人
+火影忍者博人传：新忍出击,格斗游戏,Soleil/Namco Bandai,2228,218, 忍者 动漫 3D 改编
+侏罗纪世界：进化,模拟游戏,Frontier Developments,2046,343, 恐龙 建造 沙盒 改编 科幻 经济 动作
+合金装备5：幻痛,动作游戏,KOJIMA PRODUCTION/Konami,1282,1099, 潜入暗杀 沙盒
+热血无赖,动作游戏,"United Front Games,Feral Interactive (Mac)/SQUARE ENIX",1768,593, 沙盒 角色扮演 第三人称视角 武术 多人 单人 跑酷
+女神异闻录5,角色扮演,Atlus,1127,1223, 角色扮演 好评原声音乐 氛围 日本动画 超现实 回合制 重玩价值
+合金装备崛起：复仇,动作游戏,Platinum Games/Konami,1839,504, 潜入暗杀 科幻 赛博朋克
+NBA 2K17,体育游戏,2K Sports/2K Games,1737,603, 拟真 好评原声音乐 多人 自创角色 免费 日本动画 阖家
+战地模拟器,第一人称射击,SteelRaven7,1966,359, 独立游戏 3D
+精灵宝可梦：太阳/月亮,角色扮演,任天堂,1912,391, 回合制
+逃生2,动作游戏,Red Barrels,1459,832, 恐怖 独立游戏 VR 生存恐怖 暴力 第一人称射击 裸露
+海贼无双3,动作游戏,KOEI TECMO/Namco Bandai,1870,329, 改编
+孤岛惊魂3,第一人称射击,Ubisoft Montreal/Ubisoft,1685,496, 沙盒 第一人称射击 生存 动作 剧情丰富 射击 角色扮演
+不义联盟2,格斗游戏,NetherRealm/华纳兄弟,1860,293, 漫画英雄 超級英雄 蝙蝠侠 动作 剧情丰富 单机多人 漫画
+精灵宝可梦：究极太阳/月亮,角色扮演,任天堂,1789,347, 对战 回合制
+丧尸围城4,动作游戏,Capcom、Epic Games/Capcom,1354,767, 丧尸 恐怖 3D
+黎明杀机,动作游戏,Behaviour Digital Inc./Starbreeze Publishing AB,1755,344, 恐怖 第三人称视角 多人 合作 在线合作 动作 困难
+异度之刃2,角色扮演,任天堂,694,1380, 科幻 沙盒
+NBA 2K19,体育游戏,2K Sports/2K Games,1550,493, 体育 模拟 多人 篮球
+仁王,动作游戏,KOEI TECMO/SCE,726,1313, 高难度 鬼怪 战国 剧情丰富 奇幻 第三人称视角 多人
+刺客信条4：黑旗,动作游戏,Ubisoft Montreal/Ubisoft,1345,687, 潜入暗杀 海盗 跑酷 沙盒 暗杀 潜行 历史
+恶灵附身2,动作游戏,Tango Gameworks/Bethesda,1423,604, 恐怖 惊悚 动作 生存 半开放世界 丧尸 黑暗系
+真三国无双7,动作游戏,Koei,1718,301, 三国
+中土世界：战争之影,角色扮演,Monolith/Warner Bros,1337,658, 中世纪 冒险 动作 角色扮演 奇幻 开放世界 黑暗系
+神秘海域：失落遗产,动作游戏,Naughty Dog/索尼,1548,394, 3D
+河洛群侠传,角色扮演,河洛工作室/方块游戏,1055,884, 国产 武侠 开放世界 剑侠 沙盒
+生化危机6,动作游戏,CAPCOM,1451,476, 丧尸 生存 生存恐怖 第三人称视角 冒险 合作 在线合作
+狙击精英3,第三人称射击,Rebellion/505 Games,1633,288, 二战 狙击手 射击 动作 潜行 第三人称视角 冒险
+骑马与砍杀：战团,动作角色扮演,TaleWorlds Entertainment,1406,493, 中世纪 砍杀 局域网联机 角色扮演 拟真 冒险 马匹
+极限竞速：地平线4,竞速游戏,Playground Games/Microsoft,1451,428, 赛车 竞技
+孤岛惊魂4,第一人称射击,Ubisoft,1342,486, 沙盒 第一人称射击 动作角色扮演 单人 狩猎 生存 氛围
+正当防卫2,第三人称射击,Avalanche Software/Square Enix,1504,321, 沙盒 单人 开放世界 第三人称视角 毁灭 Beautiful 动作
+孤岛危机3,第一人称射击,Crytek Studios/Electronic Arts,1322,503, 未来战争 硬件杀手 电子竞技
+文明6,策略游戏,Firaxis/2K Games,637,1130, 回合制 回合制策略 历史 单人 城市营造 4X 在线合作
+命运2,第一人称射击,Bungie/Activision,1353,402, 未来战争 科幻
+植物大战僵尸,益智游戏,PopCap Games,1407,297, 丧尸 Q版
+猎天使魔女,动作游戏,Platinum Games/SEGA,650,1034, 奇幻 快节奏 好评原声音乐 角色动作 单人 冒险 砍杀
+飙酷车神2,竞速游戏,Ivory Tower/Ubisoft,1444,240, 3D 多人 大型多人在线 第三人称视角 驾驶 氛围 飞行
+美国末日,动作游戏,Naughty Dog /SCEA,1036,627, 生存 末世 丧尸
+刺客信条,动作游戏,Ubisoft Montreal/Ubisoft,1365,294, 潜入暗杀 跑酷 中世纪 沙盒 动作冒险 单人 经典
+极品飞车18：宿敌,竞速游戏,Ghost/Criterion Games/EA,1373,277, 电子竞技 硬件杀手
+模拟人生3,模拟游戏,The Sims Studio/Electronic Arts,1485,164, 模拟 爱情 休闲 角色扮演 自创角色 欢乐 建造
+旋转轮胎,竞速游戏,Oovee team,1417,212, 模拟 探索 困难 物理 冒险 可模组化 开放世界
+无双大蛇3,动作游戏,"KOEI TECMO GAMES CO., LTD.",1194,418, 动作 奇幻 砍杀 改编
+神舞幻想,角色扮演,九凤/网元圣唐,1067,543, 国产 奇幻 角色扮演 回合制
+极品飞车17：最高通缉,竞速游戏,Criterion Games/EA,1219,371, 电子竞技
+欧洲卡车模拟2,模拟游戏,SCS Software,1190,394, 拟真 模拟 开放世界 驾驶 动作 沙盒 冒险
+逃脱者2,策略游戏,Mouldy Toof Studios/Team 17,1351,217, 独立游戏 像素 2D 多人 自创角色 开放世界 策略
+真三国无双7：猛将传,动作游戏,ω-Force/KOEI,1078,484, 三国 无双 动作 第三人称视角 冒险 多人 历史
+武装突袭3,第一人称射击,波西米亚工作室,1366,193, 现代战争 硬件杀手 战争 多人 在线合作 沙盒 可模组化
+血源,动作角色扮演,From Software/索尼,649,906, 恐怖
+火影忍者究极忍者风暴4：博人之路,格斗游戏,Cyber Connect2/Namco Bandai,1309,239, 忍者 动漫 改编
+丧尸围城3,动作游戏,Capcom Game Studio Vancouver/Capcom,1325,220, 丧尸 生存恐怖 生存 多人 开放世界 第三人称视角 合作
+你好邻居,策略游戏,Dynamic Pixels/tinyBuild,1309,229, 恐怖 独立游戏 3D 解谜 冒险 动作 单人
+H1Z1,动作游戏,Daybreak Game Company,1281,246, 生存 大逃杀 丧尸 沙盒 玩家对战 冒险 开放世界
+英雄联盟,动作游戏,Riot Games/腾讯游戏,231,1296, 电子竞技 奇幻
+Inside,冒险游戏,Playdead/Playdead Studios,1167,339, 解谜 独立游戏 横版卷轴 平台解谜 独立 短片 悬疑
+太吾绘卷,冒险游戏,ConchShip Games,566,934, 国产 独立 武术 角色扮演 沙盒 单人 模拟
+喷射战士2,第三人称射击,任天堂,1057,439, 美少女
+刀剑神域：虚空幻界,动作角色扮演,AQURIA/BANDAI NAMCO Entertainment,1280,212, 动漫 3D 改编 日系角色扮演 大型多人在线 视觉小说 日本动画
+杀手6,动作游戏,Io Interactive/Square Enix,1086,387, 沙盒 暗杀 射击 动作 剧情丰富 剧集 好评原声音乐
+无人深空,冒险游戏,Hello Games,643,830, 沙盒 太空 科幻 生存 开放世界 冒险 多人
+神界：原罪2,角色扮演,Larian Studios,647,811, 剧情丰富角色扮演 奇幻 策略 回合制 冒险 合作 角色自定义
+守望先锋,第一人称射击,暴雪,585,851, 科幻
+真三国无双6,动作游戏,Koei,1296,137, 三国
+模拟人生4：生儿育女,模拟游戏,Maxis、The Sims Studio/EA,1314,115, 3D
+星之卡比：新星同盟,动作游戏,Nintendo,1160,225, 卡通 多人联机 休闲 独占 横版卷轴
+火影忍者究极风暴世代,格斗游戏,CC2/NBGI,1201,183, 忍者 改编 动漫
+死亡细胞,动作游戏,Motion Twin,878,495, 动作 奇幻 横版卷轴 画素风格 单人 类银河战士恶魔城 类Rogue
+DmC：鬼泣,动作游戏,Ninja Theory/CAPCOM,791,580, 奇幻 剧情丰富 第三人称视角 恶魔 角色动作 风格化 氛围
+全境封锁,第三人称射击,Massive Entertainment/Ubisoft,700,669, 末世 MMORPG 在线合作 末日 战术 动作 氛围
+鬼泣4：特别版,动作游戏,Capcom,1055,293, 奇幻 角色动作 冒险 经典 单人 重制 砍杀
+刺客信条：枭雄,动作游戏,"Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios/Ubisoft",715,632, 潜入暗杀 跑酷 沙盒 潜行 蒸汽朋克 历史 暗杀
+以撒的结合：重生,动作角色扮演,"Nicalis, Inc.",1201,145, 独立游戏 黑色幽默 黑暗系 Rogerlike 漫画 二維 迷宫探索
+冰汽时代,策略游戏,11 Bit,857,488, 生存 蒸汽朋克 资源管理 建筑建造 经济 困难 好评原声音乐
+地狱之刃：塞娜的献祭,冒险游戏,Ninja Theory,824,500, 解谜 黑暗奇幻 奇幻 神话 独立游戏 恐怖 动作冒险
+刀剑神域：夺命凶弹,动作角色扮演,DIMPS/Namco Bandai,1047,262, 科幻 改编 射击 日本动画 MMORPG 开放世界 动作
+尘埃4,竞速游戏,Codemasters,957,343, 开放世界 体育 拟真 氛围 单人 越野 街机
+饥荒：联机版,冒险游戏,Klei Entertainment,886,387, 类Rogue 单人 在线合作 二維 模拟 合作 独立
+天命奇御,角色扮演,甲山林娱乐,531,737, 国产 剑侠 3D
+三国志11,策略游戏,KOEI,1069,198, 三国 策略 历史 回合制策略
+茶杯头,动作游戏,Studio MDHR/微软,902,363, 卡通 复古 横版射击 动作 独立游戏 硬核 合作
+失落城堡,动作游戏,Hunter Studio,1158,99, 国产 横版卷轴 奇幻 迷宫探索 横向卷轴 二維 画素风格
+60秒！,冒险游戏,Robot Gentleman Studios,1100,152, 生存 独立 策略 休闲 恐怖 氛围 困难
+方舟：公园,冒险游戏,Snail Games,1077,155, 国产 冒险 射击 动作 虚拟现实 探索 单人
+刺客信条：大革命,动作游戏,Ubisoft,576,642, 潜入暗杀 跑酷 硬件杀手 沙盒 潜行 第三人称视角 在线合作
+质量效应：仙女座,动作角色扮演,BioWare/EA,358,850, 科幻 生存
+德军总部2：新巨人,第一人称射击,MachineGames/Bethesda Softworks,800,402, 架空世界 科幻 二战 单人战役 剧情丰富 反乌托邦 线性流程
+刺客信条2,动作游戏,育碧,806,382, 潜入暗杀 中世纪 跑酷 沙盒 动作冒险 好评原声音乐 经典
+火影忍者疾风传：究极忍者风暴遗产,格斗游戏,Cyber Connect2/Namco Bandai,1033,151, 动漫 忍者 改编
+模拟人生4：春夏秋冬,模拟游戏,"Maxis,The Sims Studio/EA Games",1068,115, 3D
+天国：拯救,动作角色扮演,"Warhorse Studios/Warhorse Studios,Deep Silver",769,409, 中世纪 沙盒 单人 角色扮演 剧情丰富 剑术 选择取向
+假面骑士：巅峰战士,格斗游戏,万代南梦宫,1082,95, 改编
+羞辱2,动作游戏,Arkane Studios/Bethesda,602,567, 潜入暗杀 奇幻 沙盒 单人 潜行 硬件杀手 女主人翁
+缺氧,模拟游戏,Klei Entertainment,858,305, 独立游戏 沙盒 2D 探索 科幻 开放世界 生存
+漫漫长夜,冒险游戏,Hinterland Studio,880,252, 生存 恐怖 Early Access 模拟 策略 沙盒 氛围
+三国志13：威力加强版,策略游戏,KOEI TECMO,931,193, 三国 回合制
+盗贼之海,动作游戏,Rare,1001,113, 海盗 独立游戏 奇幻 沙盒
+极品飞车19,竞速游戏,Ghost Games/EA,844,269, 电子竞技
+火影忍者疾风传：究极忍者风暴合集,格斗游戏,Cyber Connect2/Namco Bandai,923,170, 动漫 忍者 改编
+火影忍者疾风传：究极忍者风暴合集,格斗游戏,Cyber Connect2/Namco Bandai,923,170, 动漫 忍者 改编
+刺客信条3,动作游戏,Ubisoft Montreal/Ubisoft,768,322, 潜入暗杀 跑酷 沙盒 第三人称视角 潜行 狩猎 动作冒险
+进击的巨人,动作游戏,ω-Force/Koei,785,282, 动漫 3D 改编 末世
+波西亚时光,角色扮演,Pathea Games/Team17 Digital Ltd,867,193, 独立游戏 国产 3D 单人 建造 农业 采矿
+侠客风云传,角色扮演,凤凰游戏/河洛工作室/凤凰传媒,450,601, 国产 剑侠 武术 剧情丰富 角色扮演 单人 冒险
+拳皇14,格斗游戏,SNK,734,315, 假3D 多人 带状卷轴动作 2D 格斗 日本动画 动作 好评原声音乐
+杀手5：赦免,动作游戏,Io Interactive/Square Enix,822,199, 潜入暗杀 暗杀 第三人称视角 犯罪 单人 战术 动作
+街头霸王5,格斗游戏,Capcom,851,169, 2D 格斗 免费 日本动画 竞技 电竞 女主人翁 经典
+泰拉瑞亚,动作游戏,Re-Logic,637,381, 沙盒 低配置 横版卷轴 开放世界 多人 探索 建造
+行尸走肉：第三季,冒险游戏,Telltale Games,503,504, 丧尸 生存 互动电影 单人剧情 分章节 女主人公 选择取向
+星球大战：前线2,第一人称射击,DICE/EA,708,292, 科幻 未来战争 3D 改编 太空 战术 射击
+生化危机4,动作游戏,Capcom,705,286, 生存 恐怖 丧尸 科幻 生存恐怖 冒险 氛围
+侠盗猎车手：罪恶都市,动作游戏,Rockstar,644,343, 驾驶 冒险 经典 多人 射击 音乐 第三人称视角
+海贼王：燃烧热血,格斗游戏,Namco Bandai,807,175, 动漫 3D 改编 动作 格斗 合作 带状卷轴动作
+无主之地2,第一人称射击,Gearbox Software/2K Games,476,505, 局域网联机 科幻 第一人称射击 角色扮演 寻宝 冒险 风格化
+生存之旅,第一人称射击,Turtle Rock/Valve,848,128, 丧尸 生存 恐怖 局域网联机 低配置
+白色情人节：校园迷宫,冒险游戏,SONNORI Corp/PQube Limited、SONNORI Corp,847,125, 恐怖 3D 解谜 生存恐怖 悬疑惊悚 独立 日本动画
+掠食,角色扮演,Arkane Studios/Bethesda,424,546, 科幻 恐怖 3D 潜行 角色扮演 外星人 氛围
+荣耀战魂,动作游戏,"Ubisoft Montreal,Ubisoft Quebec,Ubisoft Toronto,Blue Byte/Ubisoft",317,652, 中世纪 拟真 第三人称视角 角色扮演 策略 在线合作 剧情丰富
+生化奇兵：无限,第一人称射击,Irrational Games/2K Games,426,523, 蒸汽朋克 科幻 第一人称射击 反乌托邦 奇幻 好评原声音乐 架空
+实况足球2018,体育游戏,Konami,681,267, 足球 体育
+杀戮尖塔,策略游戏,Mega Crit Games,701,245, 卡牌 策略 独立 奇幻 回合制 角色扮演 困难
+仙剑奇侠传3,角色扮演,大宇资讯,793,151, 剑侠 国产 回合制 奇幻
+宝可梦探险寻宝,动作角色扮演,Nintendo,583,351, 奇幻 沙盒
+深海迷航,冒险游戏,Unknown Worlds Entertainment/完美世界,652,267, 生存 沙盒 科幻 恐怖 探索 单人 第一人称射击
+方舟：方块世界,冒险游戏,蜗牛游戏,760,155, 沙盒 国产 恐龙 冒险 大型多人在线 第一人称射击 开放世界
+传送门骑士,角色扮演,Keen Games/多益网络,706,199, 沙盒 像素 奇幻 冒险 第三人称视角 动作 迷宫探索
+勇者斗恶龙11,角色扮演,Square Enix,464,435, 奇幻
+双点医院,模拟游戏,Two Point Studios/SEGA,678,220, 恶搞 模拟 建造 欢乐 管理 单人 改编
+鬼泣4,动作游戏,Capcom,652,239, 单人 恶魔 奇幻 第三人称视角 困难 风格化 角色扮演
+神奇蜘蛛侠2,动作游戏,Beenox/Activision,741,137, 漫画英雄 科幻 改编
+吸血鬼,动作角色扮演,DONTNOD Entertainment/Focus Home Interactive,655,221, 吸血鬼 黑暗 一战 单人 选择取向 角色扮演 悬疑惊悚
+CS:GO,第一人称射击,Valve/完美世界,337,536, 玩家对战 第一人称射击 现代战争 在线合作 团队导向 射击 竞技
+饥荒：海难,冒险游戏,Capybara Games/Klei Entertainment,594,278, 独立游戏
+逃出生天,冒险游戏,hazelight/EA,628,243, 双人合作 互动电影
+上古卷轴5：天际重制版,角色扮演,Bethesda,335,518, 奇幻 冒险 魔法 龙 步行模拟 女主人翁 好评原声音乐
+死或生5,格斗游戏,Team Ninja/Tecmo Koei,745,103,
+白色情人节,冒险游戏,Roi Games,716,111, 恐怖 VR
+黑暗之魂：重制版,动作角色扮演,From Software/BANDAI NAMCO,427,399, 高难度 奇幻 中世纪 多结局 黑暗奇幻 冒险 第三人称视角
+侠盗猎车手：自由城故事,动作游戏,"Rockstar Leeds, Rockstar North/Rockstar Games",648,175,
+八方旅人,角色扮演,浅野智也、中原显介/史克威尔艾尼克斯,422,401, 回合制 像素 奇幻
+合金装备：幸存,动作游戏,Konami,619,200, 丧尸 沙盒 潜入暗杀 恐怖
+蝙蝠侠：阿甘骑士,动作游戏,Rocksteady Studios/Warner Bros.,382,429, 漫画英雄 蝙蝠侠 沙盒 科幻 改编 剧情丰富 单人
+极限竞速7,竞速游戏,Turn 10/Microsoft,615,186, 竞速 赛车 3D
+Fate/EXTELLA,动作游戏,Marvelous/Marvelous、XSEED,579,219, 恋爱模拟 日本动画 可爱 剧情丰富 砍杀 单人 女主人翁
+史诗战争模拟器,策略游戏,Brilliant Game Studios,679,114, 沙盒 独立游戏 战争 单人 中世纪 模拟 动作
+FIFA 18,体育游戏,EA Sports/EA,505,285, 足球 体育 多人
+火影忍者疾风传：究极忍者风暴-革命,格斗游戏,"CyberConnect2 Co., Ltd./NBGI",650,119, 忍者 动漫 改编
+仙剑奇侠传4,角色扮演,上海软星/寰宇之星,402,365, 剑侠 好评原声音乐 经典 剧情丰富 回合制 角色扮演
+无限法则,第一人称射击,北极光工作室/腾讯游戏,621,146, 国产 大逃杀 多人 开放世界 射击 竞技 免费
+金庸群侠传5,动作角色扮演,吴亚古/未知,353,407, 国产 沙盒 独立游戏 剑侠
+孤岛危机,第一人称射击,Crytek Studios/EA,586,173, 电子竞技 硬件杀手 单人 科幻 标杆测试 动作 可模组化
+魔兽世界,角色扮演,暴雪,142,617, 奇幻
+未转变者,动作游戏,Smartly Dressed Games,601,157, 丧尸 生存 沙盒 射击 合作 多人 单人
+孢子,模拟游戏,Maxis/EA Games,615,138, 科幻 开放世界 太空 角色扮演 休闲 模拟 创世神
+极品飞车14：热力追踪,竞速游戏,Criterion Games/Electronic Arts,606,141, 硬件杀手 竞速 单人 多人 控制器 在线合作 拟真
+十三号星期五,动作游戏,IllFonic/Gun Media,578,167, 恐怖 3D 改编 生存 多人 第三人称视角 生存恐怖
+NBA 2K14,体育游戏,Visual Concepts/2K Sports,594,144, 局域网联机
+战神3,动作游戏,SCE Santa Monica Studio/Sony Computer Entertainment,613,122, 奇幻
+武侠乂,角色扮演,上海杜昂网络科技有限公司/方块游戏(CubeGame),609,125, 武侠 沙盒 角色扮演 动作 大型多人在线 Early Access 冒险
+空洞骑士,动作游戏,Team Cherry,285,448, 独立游戏 横版卷轴 横向卷轴 类银河战士恶魔城 黑暗奇幻 奇幻 探索
+侠盗猎车手：罪恶都市传奇,动作游戏,Rockstar,542,188,
+辐射：避难所,策略游戏,Bethesda Game Studios/Bethesda,494,232, 末世 建筑建造 好评原声音乐 动作 休闲 冒险 单人
+恶灵附身,动作游戏,Tango Gameworks/Bethesda,466,255, 恐怖 生存 生存恐怖 丧尸 冒险 动作 步行模拟
+消逝的光芒：信徒,第一人称射击,Techland/Warner Bros.,542,168, 丧尸 恐怖 局域网联机 沙盒
+黑暗之魂,动作角色扮演,From Software/NBGI,449,259, 中世纪 高难度 奇幻 多结局
+恐惧狼群,第一人称射击,Vostok Games/未知,614,88, 大逃杀 3D 生存 沙盒
+中国式家长,角色扮演,墨鱼玩/椰岛游戏,412,290, 休闲 模拟 角色扮演 独立 Early Access
+口袋妖怪X/Y,角色扮演,任天堂,601,86,
+信长之野望：大志,策略游戏,Koei Tecmo,533,144, 3D 回合制 策略 历史 模拟 战国
+行尸走肉,动作游戏,Telltale Games,562,110, 丧尸 生存 互动电影 分章节 女主人公 冒险 第三人称视角
+神奇蜘蛛侠,动作游戏,Beenox Studios/Activision,581,89, 漫画英雄 科幻 改编
+三国志13,策略游戏,KOEI TECMO,389,277, 历史 单人 策略 模拟 大战略 角色扮演
+奥日与黑暗森林,动作游戏,Moon Studios GmbH/Microsoft,334,322, 剧情丰富 横版卷轴 奇幻 2.5D 好评原声音乐 二維 阖家
+如龙0,动作游戏,SEGA,360,292, 动作 角色扮演 剧情丰富 单人 剧情 沙盒 小游戏
+NBA 2K16,体育游戏,2K Sports/2K Games,529,121, 篮球 模拟 好评原声音乐 免费 第一人称射击 角色扮演 合作
+怪物猎人XX,动作游戏,Capcom,191,455, 奇幻 3D
+刺客信条：兄弟会,动作游戏,育碧,375,269, 中世纪 潜入暗杀 跑酷 3D 沙盒 好评原声音乐 罗马
+伊苏8：达娜的安魂曲,动作角色扮演,FALCOM,370,268, 奇幻 日本动画 砍杀 动作角色扮演 好评原声音乐 角色扮演 剧情丰富
+实况足球2017,体育游戏,Konami,452,185, 3D 足球 体育
+铁拳7,格斗游戏,Namco Bandai,359,278, 街机 格斗 竞技 剧情丰富 3D 日本动画 困难
+暗黑破坏神2,动作角色扮演,Blizzard North/Blizzard,370,263, 低配置 奇幻
+废品机械师,角色扮演,Axolot Games,494,137, 沙盒 末世 生存 工艺 竞速 多人 合作
+战锤：全面战争2,策略游戏,Creative Assembly/SEGA,405,226, 大型战场 策略 剧情丰富 回合制 即时战略 战术 魔幻
+ICEY,动作游戏,幻刃网络/心动网络,447,183, 2D 科幻 国产 赛博朋克 横向卷轴 日本动画 砍杀
+奇异人生,冒险游戏,Dontnod Entertainment/Square Enix,343,284, 奇幻 女主人公 单人剧情 互动电影 美少女 分章节
+以撒的结合：胎衣,动作角色扮演,"Nicalis, Inc.、Edmund McMillen/Nicalis, Inc.",510,116, 奇幻 局域网联机
+星际争霸2,即时战略,暴雪,390,234, 电子竞技 未来战争 科幻
+我的世界：故事模式2,角色扮演,Telltale Games,556,64, 2.5D 动作冒险 剧情丰富 剧集 低配置 画素风格 悬疑惊悚
+毁灭战士4,第一人称射击,id Software/Bethesda,300,315, 科幻 恐怖 VR 动作 射击 网络爆红 合作
+GTA4：自由城故事,动作游戏,Rockstar Games,449,162, 沙盒 单人 冒险 氛围 第三人称视角 剧情丰富 好评原声音乐
+乐高世界,冒险游戏,TT Games、Traveller's Tales/Warner Bros,478,132, 沙盒 Q版
+流放之路,动作角色扮演,Grinding Gear Games/腾讯,91,517, 奇幻
+进击的巨人2,动作游戏,ω-Force/Koei,509,96, 3D 动漫 改编 末世
+疯狂的麦克斯,动作游戏,"Avalanche Studios,Feral Interactive (Mac),Feral Interactive (Linux)/Warner Bros. Interactive Entertainment,Feral Interactive (Mac),Feral Interactive (Linux)",401,198, 生存 战争 竞速 单人 末日 开放世界 角色扮演
+木筏生存,冒险游戏,Redbeet Interactive/Axolot Games,516,81, 独立游戏 沙盒
+方舟：适者生存,动作角色扮演,Studio Wildcard,507,89, 生存 工艺 玩家对战 第一人称射击 Early Access 开放世界 独立游戏
+Dota2,动作游戏,Valve,115,475, 竞技 玩家对战 动作 自创角色 奇幻 困难 团队导向
+荒野大镖客：救赎,第三人称射击,Rockstar,465,121, 西部风格
+流放者柯南,动作角色扮演,Funcom,319,263, 生存 3D 沙盒 开放世界 角色扮演 探索 合作
+羞辱,动作游戏,Arkane Studios/Bethesda,309,266, 奇幻 沙盒 氛围 单人 蒸汽朋克 动作 角色扮演
+我的世界：故事模式,角色扮演,Telltale Games,449,124, 低配置 2.5D 剧情丰富 搞笑 工艺 剧集 选择取向
+死或生：沙滩排球3,体育游戏,Team Ninja/Koei Tecmo,504,67, 3D VR
+战地：叛逆连队2,第一人称射击,EA DICE/Electronic Arts,442,129, 现代战争 电子竞技 局域网联机
+帝国时代：终极版,即时战略,Ensemble Studios/微软,504,49, 电子竞技 局域网联机 即时战略 城市营造 合作 竞技 建筑建造
+侠客风云传前传,角色扮演,河洛工作室,158,393, 国产 剑侠 武术 角色扮演 策略 冒险
+生化危机5,动作游戏,CAPCOM,367,183, 科幻 丧尸 恐怖
+异形大战铁血战士,第一人称射击,Rebellion/SEGA,444,105, 科幻 狩猎 潜行 动作 外星人 生存 改编
+罗马2：全面战争,策略游戏,The Creative Assembly/SEGA,413,134, 大型战场 策略 即时战略 历史题材 战术 回合制 剧情丰富
+全面吃鸡模拟器,模拟游戏,Landfall,431,112, 独立游戏 搞笑 第一人称射击 多人 改编 射击 开放世界
+猎人：野性的呼唤,第一人称射击,Avalanche Studios,395,145, 沙盒 单人 开放世界 多人 合作 步行模拟 第一人称射击
+城市：天际线,模拟游戏,Colossal Order Ltd./Paradox Interactive,334,206, 单人 城市营造 休闲 模拟 即时含暂停 资源管理 建造
+三国志12,策略游戏,KOEI TECMO /Koei Tecmo,465,73, 三国 策略
+VR女友,模拟游戏,Illusion,433,100, 美少女 3D VR
+战神3重制版,动作游戏,索尼圣莫妮卡/Sony Computer Entertainment,224,308, 奇幻
+灵魂筹码,角色扮演,重明工作室,472,59, 恐怖 国产 生存恐怖 动作 独立 EarlyAccess 角色扮演
+极速骑行2,竞速游戏,Milestone S.r.l.,480,50, 动作 竞速 3D 体育 多人 铁马 模拟
+星际战甲,第三人称射击,Digital Extremes/Digital Extremes、畅游,174,355, 未来战争 科幻 在线合作 免费 动作 太空 射击
+奇异人生：暴风前夕,冒险游戏,Dontnod Entertainment/Square Enix,371,156, 互动电影 奇幻 分章节 美少女 单人 女主人翁 第三人称视角
+光环5：守护者,第一人称射击,343工作室/微软,421,107, 科幻
+海贼王：无尽世界R,动作游戏,NBGI,448,78, 改编
+FIFA 19,体育游戏,EA Sports/EA,391,133, 体育 足球
+模拟城市5,模拟游戏,Maxis/Electronic Arts,410,110,
+传说之下,角色扮演,tobyfox,359,159, 独立游戏 像素 好评原声音乐 独立 画素风格 单人 可爱
+不是GTA5,益智游戏,Not Games LLP,407,108, 独立游戏
+巧克力与香子兰3,恋爱养成,NEKO WORKs /Sekai Project,367,140, 横版卷轴 氛围 冒险 美少女 恋爱模拟 剧情丰富 休闲
+四海兄弟3,动作游戏,Hangar 13/2K Games,270,236, 潜行 经典 射击 犯罪 单人 沙盒 第三人称视角
+骑马与砍杀：火与剑,动作角色扮演,TaleWorlds Entertainment,411,95, 中世纪 局域网联机 动作角色扮演 模拟 沙盒 策略 动作
+真三国无双4,动作游戏,ω-Force/KOEI,399,106, 三国
+泰坦陨落,第一人称射击,Respawn/EA,435,69, 未来战争 科幻
+刺客信条：叛变,动作游戏,育碧Sofia,315,187, 跑酷 历史 动作冒险 动作 快速反应事件 氛围 冒险
+救赎之路,动作角色扮演,Darkstar Games/Another Indie,303,199, 国产 奇幻 3D 角色扮演 单人 冒险 动作
+战锤：末世鼠疫2,动作角色扮演,Fatshark,264,234, 共斗 奇幻 动作 氛围 合作 游戏工坊 生存
+火炬之光2,动作角色扮演,Runic Games/完美时空,297,198, 奇幻 砍杀 寻宝 迷宫探索 蒸汽朋克 在线合作 等角
+逃离塔科夫,第一人称射击,Battlestate,406,84, 现代战争
+美国职业摔角联盟2K18,体育游戏,"Visual Concepts,Yuke's Co., LTD/2K Games",412,75, 3D 格斗 体育 模拟 摔角 自创角色 多人
+煮糊了,动作游戏,Ghost Town Games Ltd/Team17 Digital Ltd,380,102, 独立游戏 3D 休闲 模拟 单机合作 搞笑 好评原声音乐
+拳皇13,格斗游戏,SNK Playmore/Atlus,387,90,
+模拟人生4：城市生活,模拟游戏,Maxis、The Sims Studio/EA Games,432,45, 3D
+无双大蛇2,动作游戏,Omega Force/KOEI TECMO,388,85,
+突袭4,即时战略,Kite Games/Kalypso Media Digital,315,156, 二战 3D 策略 单人 即时 即时战术 坦克
+生化危机：启示录2,动作游戏,CAPCOM,271,200, 丧尸 生存恐怖 射击 单人 女主人翁 生存 动作
+二之国2：亡灵之国,角色扮演,Level 5/BANDAI NAMCO Entertainment,320,149, 奇幻 冒险 开放世界 角色扮演 单人 好评原声音乐 策略
+SOS终极对决,第一人称射击,"Outpost Games/Outpost Games, Inc.",419,48, 大逃杀 3D 射击 生存 Early Access 恐怖 动作
+幻想三国志5,角色扮演,宇峻奥汀/凤凰游戏,295,172, 国产 三国 3D
+荒岛求生,冒险游戏,Beam Team Games,356,110, 生存 解谜 单人 水底 拟真 独立 策略
+NBA 2K15,体育游戏,2K Sports/2K Games,375,89,
+钢铁雄心4,策略游戏,Paradox Interactive,248,215, 回合制 二战
+黑道圣徒3,动作游戏,Volition Inc/Deep Silver,351,108, 在线合作 女主人翁 开放世界 自创角色 多人 第三人称视角 沙盒
+传送门2,第一人称射击,Valve,208,244, 在线合作 合作 多人 单人 科学 搞笑 冒险
+极限巅峰,体育游戏,育碧/Ubisoft,347,103, 竞速 好评原声音乐 体育 探索 开放世界 沙盒 动作
+最终幻想XIV：红莲之狂潮,角色扮演,史克威尔艾尼克斯/盛大游戏,267,181, 3D 奇幻
+暗黑血统2,动作游戏,Vigil Games/THQ,280,168, 奇幻 动作角色扮演 寻宝 唯美格斗 黑暗奇幻 控制器 好评原声音乐
+中土世界：暗影魔多,动作游戏,Monolith Studios/Warner Bros,304,140, 中世纪 奇幻 跑酷 冒险 第三人称视角 开放世界 潜行
+狙击精英V2,第三人称射击,Rebellion,378,66, 二战 狙击手 局域网联机 子弹时间 合作 战争 冒险
+WILL：美好世界,冒险游戏,任意门,358,80, 独立游戏 国产 文字 文字游戏 女主人翁 悬疑 科幻
+七日杀,第一人称射击,The Fun Pimps Entertainment/The Fun Pimps Entertainment LLC,342,95, 生存 丧尸 恐怖 单人 科幻 开放世界 工艺
+逃生,动作游戏,Red Barrels,294,142, 恐怖 生存 独立游戏
+模拟挖掘机,模拟游戏,Cape Copenhagen/rondomedia GmbH,333,102, 模拟
+极品飞车9：最高通缉,竞速游戏,Black Box/EA,278,156, 局域网联机
+血源：老猎人,动作角色扮演,From Software/索尼,106,324, 恐怖
+龙腾世纪：审判,角色扮演,BioWare/Electronic Arts,239,191, 奇幻
+黑道圣徒4,动作游戏,Deep Silver Volition/Deep Silver,315,113, 沙盒 科幻 谐仿 搞笑 好评原声音乐 超級英雄 在线合作
+模拟农场17,模拟游戏,Giants Software/Focus Home Interactive,325,100, 农业 3D 驾驶 单人 多人 开放世界 动作
+丧尸围城2,动作游戏,CAPCOM,374,51, 丧尸 生存 恐怖 单人 第三人称视角 冒险 在线合作
+永恒之柱2：死亡之火,角色扮演,Obsidian Entertainment,273,151, 奇幻 电脑角色扮演 等角 好评原声音乐 自创角色 即时含暂停 选择取向
+勇敢的心：世界大战,动作游戏,Ubisoft Montpellier/Ubisoft,241,180, 一战 解谜 音乐 横向卷轴 平台 独立 好评原声音乐
+反恐精英,第一人称射击,Valve,156,265, 电子竞技 低配置 射击 局域网联机 战术 第一人称射击 现代战争
+亿万僵尸,即时战略,Numantian Games,342,75, 丧尸 即时含暂停 建筑建造 Early Access 单人 等角 独立
+战争机器4,第三人称射击,The Coalition/微软,286,129, 科幻 生存
+战锤：全面战争,策略游戏,"CREATIVE ASSEMBLY,Feral Interactive (Linux),Feral Interactive (Mac)/SEGA,Feral Interactive (Linux),Feral Interactive (Mac)",241,173, 大型战场 战术 历史题材 剧情丰富 回合制 策略 即时战略
+巧克力与香子兰,冒险游戏,NEKO WORKs /Sekai Project,296,116, 解谜
+量子破碎,第三人称射击,Remedy/Microsoft Game,194,216, 科幻 单人 动作 子弹时间 控制器 过场动画 剧情丰富
+刺客信条：启示录,动作游戏,育碧,220,190, 跑酷 中世纪 潜入暗杀 好评原声音乐 历史 沙盒 潜行
+使命召唤OL,第一人称射击,Raven工作室/腾讯游戏,71,338, 电子竞技 现代战争
+胡闹厨房2,模拟游戏,"Ghost Town Games Ltd.,Team17 Digital Ltd/Team17 Digital Ltd",320,87, 合作 休闲 多人 动作 独立
+南方公园：完整破碎,角色扮演,育碧旧金山工作室/Ubisoft,245,161, 黑色幽默 回合制 漫画改编 卡通 恶搞 搞笑 战棋
+模拟人生4：猫与狗,模拟游戏,Maxis/The Sims Studio/EA Games,356,48, 3D
+实况足球2019,体育游戏,Konami,303,99, 体育 足球
+全面战争：幕府将军2,策略游戏,CreativeAssembly/SEGA,313,88, 大型战场 历史题材 策略 即时战略 战术 剧情丰富 回合制
+荒野行动,第一人称射击,网易游戏,253,147, 多人 竞技 国产 大逃杀
+火影忍者疾风传：究极忍者风暴,格斗游戏,Cyber Connect2/Namco Bandai,339,60, 忍者 动漫 改编
+异星探险家,冒险游戏,System Era Softworks,296,103, 独立游戏 科幻 沙盒 第三人称视角 开放世界 冒险 好评原声音乐
+鬼泣HD合集,动作游戏,Capcom,306,92, 奇幻 硬核 砍杀 经典 好评原声音乐 角色动作 唯美格斗
+死亡岛,动作游戏,Techland/Deep Silver,314,82, 丧尸 角色扮演 单人 恐怖 在线合作 工艺 女主人翁
+行尸走肉：最终季,冒险游戏,Telltale Games,331,65, 单人剧情 丧尸 生存 分章节 互动电影 女主人公 末日
+无双大蛇,动作游戏,Omega Force/KOEI,337,58,
+乐高漫威超级英雄2,动作游戏,TT Games/Warner Bros. Interactive,345,48, 漫画英雄 科幻 Q版 改编 单机合作 免费 阖家
+克苏鲁的呼唤,冒险游戏,Cyanide/Focus Interactive,348,45, 恐怖 改编
+乐高侏罗纪世界,动作游戏,TT Games/WB Games,288,103, 乐高 第三人称视角 恐龙 模拟 欢乐 单人 单机合作
+暗黑血统：战神之怒,动作游戏,Vigil Games/THQ,251,140, 冒险 奇幻 类银河战士恶魔城 多人 开放世界 砍杀 黑暗奇幻
+战场女武神4,角色扮演,SEGA,278,113, 架空世界 奇幻
+大神：绝景版,动作游戏,Clover/Capcom,291,99, 奇幻 角色扮演 风格化 剧情丰富 改编 非主流经典 冒险
+穿越火线,第一人称射击,Smile Gate、Neowiz/腾讯游戏,73,315, 电子竞技
+猎天使魔女2,动作游戏,Platinum Games/Nintendo,230,158, 奇幻
+英雄连2,即时战略,Relic/世嘉,300,87, 二战 多人 战术 坦克 历史 动作 好评原声音乐
+加速世界VS刀剑神域：千年的黄昏,动作角色扮演,Namco Bandai,319,66, 改编 奇幻 3D
+FIFA 17,体育游戏,EA Sports/EA,251,134, 3D 足球 体育
+英雄传说：闪之轨迹,角色扮演,Falcom,206,179, 单人 回合制 爱情 剧情丰富 可爱 女主人翁 奇幻
+我的英雄学院,动作游戏,Namco Bandai,346,35, 热血 漫改 科幻
+乞丐模拟器,模拟游戏,Perun Creative,344,36, 开放世界 独立 冒险 Early Access 模拟 生存 多人
+羞辱：界外魔之死,动作游戏,Arkane Studios/Bethesda Softworks,282,96, 潜入暗杀 开放世界 第一人称射击 奇幻 剧情丰富 蒸汽朋克 跑酷
+极限竞速：地平线2,竞速游戏,Playground Games、Turn 10/微软,320,51, 赛车 竞速 3D
+画中世界,益智游戏,Jason Roberts/未知,235,131, 解谜 奇幻 休闲 冒险 互动小说 卡通化 风格化
+植物大战僵尸2：奇妙时空之旅,益智游戏,PopCap Games/EA,296,70, 丧尸 Q版
+极品飞车Online,竞速游戏,EA、Spearhead/腾讯游戏,141,224,
+战意,策略游戏,网易,247,115, 国产
+收获日2,第一人称射击,Overkill Software/505 Games,249,112, 抢劫 第一人称射击 单人 潜行 搞笑 生存 玩家合作
+星际争霸：重制版,即时战略,暴雪,288,73, 电子竞技 科幻 未来战争
+小梦魇,动作游戏,Tarsier Studios/Namco Bandai,274,87, 单人 冒险 奇幻 恐怖 女主人翁 平台 动作
+全面战争模拟器,模拟游戏,Landfall,305,56, 战争 搞笑 单人 沙盒 中世纪 休闲 物理
+黑暗之魂2：原罪学者,动作角色扮演,FromSoftware/BANDAI NAMCO、FromSoftware,72,289, 奇幻 Souls-like 冒险 合作 自创角色 动作角色扮演 玩家对战
+崩溃大陆,动作游戏,Butterscotch Shenanigans,283,75, 生存 冒险 角色扮演 剧情丰富 多人 开放世界 独立
+死或生5：最后一战,格斗游戏,Team Ninja/KOEI TECMO,233,120,
+荣誉勋章,第一人称射击,Electronic Arts,273,80, 现代战争 电子竞技 第一人称射击 局域网联机 战争 军事 射击
+刀剑神域：虚空断章,动作角色扮演,NBGI,304,48, 改编
+巫师之昆特牌,策略游戏,CD Project RED/盖娅互娱,191,160, 奇幻 回合制
+火柴人战斗,动作游戏,Landfall West/Landfall,289,59, 独立游戏 奇幻 2D 格斗 4人单机 2D 物理 动作
+无限试驾2,竞速游戏,Eden Studios/Atari,290,57,
+美国职业摔角联盟2K17,体育游戏,2K Sports/2K Games,282,64, 模拟 摔角 动作 格斗 体育 自创角色 多人
+重装机兵XENO,角色扮演,索尼,312,30, 末世 未来战争 科幻
+狂战传说,角色扮演,Bandai Namco,98,244, 奇幻 3D 开放世界 女主人翁 角色扮演 动作 可爱
+迸发,动作角色扮演,Focus Home Interactive,94,244, 血腥 冒险 开放世界 机甲世界 动作角色扮演 科幻 困难
+侠盗猎车手3,动作游戏,Rockstar Games,190,147, 驾驶 沙盒 单人 冒险 第三人称视角 经典 剧情丰富
+奇异人生2,冒险游戏,DONTNOD Entertainment/Square Enix,305,31, 奇幻 剧情丰富 选择取向 单人 氛围 好评原声音乐 美少女
+旺达与巨像,动作游戏,Team ICO/Sony,219,116, 奇幻 3D
+乐高复仇者联盟,动作游戏,"Traveller's Tales,TT Games,Feral Interactive (Mac)/Warner Bros. Interactive Entertainment,Feral Interactive (Mac)",268,67, Q版 改编 单机合作 分屏 单人 漫画 乐高
+Cuisine Royale,第一人称射击,Darkflow Software/Gaijin Distribution KFT,267,68, 大逃杀 独立游戏
+生化危机：保护伞小队,第三人称射击,Capcom,208,126, 恐怖 竞技 战术 生存 休闲 单人 丧尸
+极品飞车16：亡命狂飙,竞速游戏,Black Box/Electronic Arts,270,62, 电子竞技
+巫师2：刺客之王,角色扮演,CD Projekt Red/CD Projekt,214,117, 中世纪 奇幻 黑暗 第三人称视角 小说改编 多结局 动作
+高考恋爱100天,恋爱养成,高考恋爱委员会/NVLMaker,269,61, 多结局 可爱 独立 休闲 恋爱模拟 视觉小说 日本动画
+声名狼藉：私生子,动作游戏,Sucker Punch Productions/SCE,250,80,
+英雄连：勇气传说,即时战略,Relic/THQ,273,56, 二战 战争 即时战略 军事 策略 单人 历史
+GTAOL,动作游戏,Rockstar Games,182,147, 沙盒
+仙剑奇侠传6,角色扮演,北京软星/畅游,192,135, 剑侠
+死亡空间3,第三人称射击,Visceral Games/Electronic Arts,226,101, 科幻 未来战争
+盐和避难所,动作游戏,Ska Studios,121,205, 横版卷轴 奇幻 Souls-like 单人 横向卷轴 恐怖 独立
+幽浮2,策略游戏,Firaxis Games/2K Games,173,151, 外星人 科幻 永久死亡 角色扮演 氛围 单人 可模组化
+星界边境,动作游戏,Chucklefish,201,121, 独立游戏 科幻 单人 开放世界 生存 沙盒 太空
+直到黎明,冒险游戏,Supermassive Games/Sony,238,84, 恐怖 惊悚 多结局 互动电影 奇幻 单人剧情
+艾迪芬奇的记忆,冒险游戏,Giant Sparrow/SCE,198,123, 解谜 悬疑惊悚 视觉小说 步行模拟 剧情丰富 探索 短片
+模拟人生4：快乐洗衣日,模拟游戏,Maxis/The Sims Studio/EA Games,281,39, 休闲
+隐龙传：影踪,动作游戏,美格方互动/完美世界,142,177, 国产 剑侠 解谜 奇幻 类银河战士恶魔城 角色扮演 冒险
+细胞分裂6：黑名单,动作游戏,Ubisoft Toronto/Ubisoft,143,173, 射击 跑酷 剧情丰富 控制器 多人 合作 现代战争
+坎巴拉太空计划,模拟游戏,Squad/Private Division,240,74, 沙盒
+飙酷车神,竞速游戏,Ubisoft & Ivory Tower/Ubisoft,267,43, 驾驶 单人 竞速 氛围 合作 团队导向 动作
+辐射3,角色扮演,Bethesda Game Studios/Bethesda Softworks,223,87, 科幻 赛博朋克 末世
+古墓丽影8：地下世界,动作游戏,Crystal Dynamics/Square Enix,245,63, 第三人称视角 奇幻 劳拉·克劳馥 开放世界 女主人翁 3D视觉 动作冒险
+使命召唤2,第一人称射击,Infinity Ward/Activision,193,114, 二战
+死亡独轮车3D,动作游戏,HakJak Productions/tinyBuild,263,43, 恶搞 开放世界 物理 沙盒 动作 独立 搞笑
+仙剑奇侠传,角色扮演,大宇资讯,122,183,
+超级机器人大战X,策略游戏,Namco Bandai,189,116, 机器人 战棋 漫改
+刀剑神域：失落之歌,动作角色扮演,NBGI,259,45, 奇幻
+漫画英雄VS卡普空：无限,格斗游戏,CAPCOM,265,38, 超級英雄 日本动画 竞技 单人 2D 格斗 抢劫 开放世界
+地铁：最后的曙光,第一人称射击,4A Games/Deep Silver,196,107, 末世 第一人称射击 剧情丰富 硬件杀手 单人 潜行 末日
+围攻,策略游戏,Spiderling,204,99, 独立游戏
+ABZU,冒险游戏,Giant Squid/505 Games,213,88, 独立游戏 探索 水底 第三人称视角 单人 动作 开放世界
+讨鬼传2,动作游戏,Omega Force/Koei Tecmo,172,128, 日本动画 开放世界 奇幻 砍杀 狩猎 沙盒 自创角色
+王国：新大陆,策略游戏,Noio/Raw Fury,251,47, 氛围 奇幻 画素风格 探索 冒险 生存 休闲
+守墓人,模拟游戏,Lazy Bear Games/tinyBuild,248,49, 模拟 中世纪 沙盒 像素 独立游戏 剧情丰富 悬疑
+史莱姆牧场,模拟游戏,Monomi Park,231,66, 沙盒 3D 开放世界 第一人称射击 冒险 动作 模拟
+层层恐惧,冒险游戏,Bloober Team,240,57, 恐怖 独立游戏 步行模拟 生存恐怖 探索 氛围 冒险
+人中北斗,动作游戏,SEGA,231,65, 科幻 末世 改编 3D
+孤岛危机2,第一人称射击,Crytek Studios/EA,167,124, 硬件杀手 电子竞技 未来战争 第一人称射击 剧情丰富 3D视觉 单人
+孤岛惊魂2,第一人称射击,育碧,211,79, 科幻 好评原声音乐 第一人称射击 单人 控制器 拟真 合作
+腐烂国度,动作游戏,Undead Labs/Microsoft Game Studios,224,64, 生存 局域网联机 丧尸 角色扮演 独立 探索 单人
+影子战术：将军之刃,策略游戏,Mimimi Productions/Daedalic Entertainment,138,149, 独立游戏 潜入暗杀 忍者 即时战术 单人 策略 即时战略
+流星蝴蝶剑,动作游戏,昱泉国际,115,172, 局域网联机 剑侠 国产 改编
+忍者龙剑传2,动作游戏,TECOM/Microsoft Game,186,100, 忍者
+恐怖黎明,动作角色扮演,Crate Entertainment,142,141, 黑暗奇幻 丧尸 奇幻 动作角色扮演 黑暗 迷宫探索 多人
+混乱特工,第三人称射击,Deep Silver Volition/Deep Silver,208,73, 多人 欢乐 第三人称视角 超級英雄 赛博朋克 单人 冒险
+英雄传说6：空之轨迹FC,角色扮演,Falcom,72,208, 日式角色扮演 经典 奇幻 系列
+暗黑地牢,角色扮演,Red Hook Studios,115,165, 恐怖 角色扮演 回合制 Kickstarter 二維 永久死亡 氛围
+假面骑士：斗骑大战创生,动作角色扮演,BNEI,234,45, 改编
+魔法门之英雄无敌3,策略游戏,DotEmu/Ubisoft Entertainment,202,77, 回合制 局域网联机 奇幻 策略 动作 合作 重制
+红色警戒,即时战略,WestWood Studio,116,162, 局域网联机 科幻 低配置
+帝国时代3,即时战略,Ensemble/Microsoft,187,90, 局域网联机 电子竞技 合作 策略 单人 动作 历史
+南方公园：真理之杖,角色扮演,Obsidian Entertainment/Ubisoft,182,94, 动漫 改编 黑色幽默 开放世界 剧情丰富 丧尸 局域网联机
+质量效应3,动作角色扮演,Bioware/Electronic Arts,160,116, 科幻 未来战争
+王者荣耀主机版,动作游戏,腾讯游戏,205,69, 国产 奇幻
+旋转轮胎：泥泞奔驰,模拟游戏,Saber Interactive/Focus Home Interactive,226,45, 模拟 竞速 独立游戏 物理 在线合作 合作 氛围
+极限竞速6,竞速游戏,Turn 10/Microsoft,221,50, 赛车 竞速 3D
+银魂乱舞,动作游戏,Bandai Namco,245,25, 动漫 改编
+装机模拟器,模拟游戏,Claudiu Kiss/The Irregular Corporation,230,41, 模拟 休闲 拟真 教育 沙盒 Early Access 独立
+半条命2,第一人称射击,Valve,169,100, 科幻
+辐射：新维加斯,角色扮演,Obsidian Entertainment/Bethesda Softworks,175,94, 未来战争 射击 剧情丰富 开放世界 探索 第一人称射击 第三人称视角
+德军总部：新秩序,第一人称射击,Machine Games/Bethesda,160,109, 第一人称射击 科幻 二战 好评原声音乐 剧情丰富 单人 氛围
+最终幻想13,角色扮演,Square Enix,163,106, 奇幻
+死亡空间2,第三人称射击,Visceral Games/Electronic Arts,189,79, 3D视觉 射击 冒险 第三人称视角 生存恐怖 太空 科幻
+超凡双生,动作游戏,Quantic Dream/SCE,175,93, 科幻
+风之旅人,冒险游戏,thatgamecompany/SCE,153,114, 独立游戏 解谜 3D 奇幻
+暴雨,冒险游戏,Quantic Dream/SCE,119,145, 恐怖
+X战警前传：金刚狼,动作游戏,Maxis/EA Games,208,53, 改编 漫画英雄 科幻
+绝对征服,第三人称射击,Platinum Games/SEGA,151,109, 科幻 第三人称视角 3D 动作 子弹时间 经典 射击
+Fate/EXTELLA LINK,动作游戏,Marvelous/Marvelous、XSEED,239,20, 动漫 改编 3D
+全面战争传奇：不列颠的王座,策略游戏,Creative Assembly/SEGA,192,67, 策略 中世纪 单人 回合制策略 合作 大战略 历史
+拳皇97,格斗游戏,SNK,138,121,
+旅途,冒险游戏,thatgamecompany/SCE,182,76, 奇幻 独立游戏 解谜 3D
+去月球,角色扮演,Freebird Games,100,159,
+地狱边境,冒险游戏,PlayDead,138,117, 解谜 横向卷轴 超现实 二維 平台 极简主义 过场动画
+暗黑破坏神2：毁灭之王,动作角色扮演,Blizzard,91,164, 奇幻 低配置
+疯狂办公室,动作游戏,Hollow Robot,223,31, 3D 独立游戏
+镜之边缘：催化剂,动作游戏,EA DICE/EA,138,116, 跑酷 科幻
+古剑奇谭OL,角色扮演,上海烛龙/网元圣唐,107,146, 剑侠 改编
+帝国：全面战争,策略游戏,CreativeAssembly/SEGA,211,42, 大型战场 策略 战术 即时战略 历史题材 剧情丰富 回合制
+马里奥赛车8豪华版,竞速游戏,任天堂,84,169,
+死神来了,模拟游戏,Next Studio,217,35, 国产 独立游戏 像素 解谜
+无双全明星,动作游戏,ω-Force/Koei,166,86, 动作 3D 奇幻 日本动画 砍杀
+剑侠情缘网络版叁：重制版,角色扮演,西山居,63,189, 国产 武侠 奇幻
+帝国时代2：帝王世纪,即时战略,Ensemble Studios/Microsoft,157,93, 中世纪 局域网联机 电子竞技
+最后的守护者,动作角色扮演,Team ICO/SCE,128,121, 奇幻 3D
+灵魂能力6,格斗游戏,NBGI,195,53, 格斗 动作 经典 硬核 奇幻 多人
+毛线小精灵,动作游戏,Coldwood Interactive/EA,191,57, 奇幻 横版卷轴
+石油骚动,模拟游戏,Gamious,200,47, 西部风格 单人 策略 采矿 休闲 西部 经济
+龙珠Z：电光火石3,格斗游戏,Spike/Namco Bandai,187,59, 改编
+最终幻想12：黄道年代,角色扮演,Square Enix,115,131, 开放世界 剧情丰富 奇幻 日系角色扮演 日本动画 探索 单人
+幻,冒险游戏,幻羽科技/塔人网络,67,178, 沙盒 冒险 生存 科幻 Early Access VR 角色扮演
+火箭联盟,体育游戏,Psyonix/腾讯游戏,190,55, 3D 科幻
+马里奥疯狂兔子：王国之战,策略游戏,Ubisoft Entertainment/Nintendo,166,77, 奇幻 3D
+CLANNAD,恋爱养成,VisualArts/Key/Sekai Project,188,55, 爱情 日本动画 剧情 欢乐 氛围 视觉小说 恋爱模拟
+战争雷霆,第三人称射击,Gaijin Entertainment/腾讯游戏,71,171, 二战 免费 军事 坦克 拟真 大型多人在线 多人
+戎马丹心-汉匈决战,动作角色扮演,重庆尚史轩,133,105, 国产 动作 沙盒 历史 策略 角色扮演
+火焰纹章无双,动作游戏,光荣/任天堂,168,70, 奇幻
+战锤40K：战争黎明3,即时战略,SEGA,162,75, 科幻 未来战争 单人 即时战略 战锤40K 建筑建造 多人在线战术竞技
+实况足球2016,体育游戏,Konami,199,37, 电子竞技 体育 足球
+放逐之城,模拟游戏,Shining Rock Software LLC,163,73, 生存 开放世界 城市营造 建造 沙盒 Masterpiece 即时战略
+鬼泣3,动作游戏,Capcom,111,124, 奇幻
+这是我的战争：孩子们,策略游戏,11 bit,187,47, 2.5D 独立游戏 现代战争 生存
+仙剑奇侠传2,角色扮演,大宇资讯,173,61, 回合制 国产 剑侠
+怪物猎人物语,角色扮演,Capcom,172,62,
+暗黑破坏神3,动作角色扮演,Blizzard,76,159, 奇幻
+监狱建筑师,模拟游戏,Introversion Software,175,57, 单人 建筑建造 沙盒 管理 策略 资源管理 城市营造
+无双大蛇Z,动作游戏,KOEI/Koei Tecmo,146,86, 奇幻
+火影忍者疾风传：究极忍者风暴2,格斗游戏,CyberConnect2 Co. Ltd./BANDAI NAMCO Entertainment,175,54, 动漫 策略 动作 格斗 日本动画 改编 忍者
+暗黑血统2：终极版,动作游戏,Gunfire Games/Nordic Games,116,113, 科幻 奇幻
+枪火游侠,第一人称射击,Hi-Rez Studios/腾讯游戏,34,194, 奇幻 国产 大逃杀 科幻 3D
+真三国无双：英杰传,角色扮演,ω-Force/Koei,177,51, 回合制
+油管主播的生活,模拟游戏,U-Play Online,183,44, 独立游戏
+辐射4：年度版,动作角色扮演,Bethesda,125,102, 末世 科幻 VR
+GTS,竞速游戏,Polyphony Digital/SONY,118,107, 3D
+战国无双4-2,动作游戏,Koei Tecmo,160,65, 战国 单机合作 单人 好评原声音乐 日本动画 带状卷轴动作 自创角色
+黑暗之魂2,动作角色扮演,From Software/Namco Bandai Games,133,92, 角色扮演 探索 冒险 困难 玩家对战 第三人称视角 黑暗奇幻
+暗黑破坏神3：夺魂之镰,动作角色扮演,Blizzard,33,191, 奇幻
+丧尸围城,动作游戏,CAPCOM,169,54, 丧尸 生存 恐怖 困难 生存恐怖 第三人称视角 沙盒
+DayZ,第一人称射击,Bohemia Interactive,179,44, 生存 生存恐怖 丧尸 沙盒 第一人称射击 末日 射击
+刺客信条：艾吉奥合集,动作游戏,育碧,127,96, 潜入暗杀 3D 中世纪
+高达Versus,动作游戏,Namco Bandai,175,44, 科幻 3D
+行尸走肉：第二季,动作游戏,Telltale Games,161,58, 生存 丧尸 单人剧情 女主人公 动作 冒险 互动电影
+圣斗士星矢：斗士之魂,格斗游戏,DIMPS/Namco Bandai,189,30, 日本动画 格斗 改编 抢劫 动作 多人 剧情丰富
+蜘蛛侠：英雄归来,动作游戏,CreateVR/Sony,177,41, 3D 超級英雄 冒险 VR 改编 虚拟现实 动作
+环世界,策略游戏,Ludeon Studios,138,80, 沙盒 模拟 策略 生存 2D 独立游戏 科幻
+虎豹骑,动作角色扮演,虎豹骑工作室/网龙,157,61, 三国 国产 Early Access 战争 历史 大型多人在线 策略
+黑色沙漠,角色扮演,PERAL ABYSS/DAUM,149,69, 奇幻
+看火人,冒险游戏,"Campo Santo/Panic Inc.,Campo Santo",106,112, 独立游戏 步行模拟 剧情丰富 短片 休闲 惊悚 探索
+地铁2033,第一人称射击,4A Games/THQ,104,113, 末世 生存 射击 剧情丰富 科幻 潜行 多人
+群星,策略游戏,Paradox Development Studio/Paradox Interactive,107,110, 科幻 太空 策略 重玩价值 单人 大战略 好评原声音乐
+生化危机2,动作游戏,Capcom,120,96, 恐怖 丧尸
+地球灭亡前60秒！,冒险游戏,Avocavo,176,39, 剧情丰富 可爱 末世 横版卷轴 漫画 多结局 搞笑
+生化危机,动作游戏,Capcom,140,75, 恐怖 丧尸 科幻
+传说法师,动作游戏,Contingent99,101,113, Roguelike 像素 类Rogue 奇幻 角色扮演 困难 程序生成
+生化危机：启示录,动作游戏,Capcom,93,120, 丧尸 动作 血腥 第一人称射击 单人 氛围 第三人称视角
+Rust,动作游戏,Facepunch Studios,152,59, 生存 第一人称射击 合作 射击 生存恐怖 沙盒 建造
+秋叶原之旅2,动作游戏,"ACQUIRE Corp./XSEED Games,Marvelous USA, Inc.",155,55, 单人 女主人翁 开放世界 日本动画 恋爱模拟 可爱 欢乐
+秋之回忆8：无垢少女,恋爱养成,5pb,195,15, 美少女 2D
+强军,第一人称射击,"Ares Game Co., Ltd./Nanjing QiangJun Network Co., Ltd.",159,50, 国产 现代战争 第一人称射击 军事 大型多人在线
+尘埃3,竞速游戏,Codemasters,149,59,
+心灵杀手,动作游戏,Remedy Entertainment,72,136, 过场动画 剧集 灵异 好评原声音乐 悬疑惊悚 射击 黑暗
+变形金刚：塞伯坦的陨落,动作游戏,High Moon Studios/Activision,164,43, 科幻
+王国,策略游戏,Noio、Licorice/Raw Fury,164,42, 棋类 像素 独立 策略 复古
+真三国无双7：帝国,动作游戏,"KOEI TECMO GAMES CO., LTD.",147,59, 策略 动作 单人 自创角色 单机合作 日本动画 角色扮演
+新高达破坏者,动作游戏,Namco Bandai,152,53, 改编 科幻
+赛车计划2,竞速游戏,Slightly Mad Studios/BANDAI NAMCO Entertainment,155,50, 虚拟现实 休闲 单人 街机 体育 多人 模拟
+古剑奇谭,角色扮演,上海烛龙/GameBar,88,117, 国产 剑侠 剧情丰富 角色扮演 回合制
+炉石传说：魔兽英雄传,策略游戏,暴雪,26,179, 回合制 奇幻
+最后一站,冒险游戏,Oleg Sergeyev、Andrey Rumak/tinyBuild,155,49, 2D 丧尸 独立游戏 末世 复古 科幻 横版卷轴
+刺客信条：编年史,动作游戏,Climax、育碧蒙特利尔/育碧,158,46, 跑酷 横版卷轴
+僵尸部队三部曲,第三人称射击,Rebellion,136,68, 丧尸 二战 局域网联机 狙击手 动作 末日 合作
+房产达人,模拟游戏,"Empyrean,Red Dot Games/PlayWay S.A,Frozen District",178,25, 网络爆红 管理 建造 多人 模拟 沙盒 设计与插画
+美国职业摔角联盟2K15,格斗游戏,2K Sports/2K Games,163,40,
+FIFA Online3,体育游戏,EA,52,151, 体育 电子竞技 足球
+神秘海域3：德雷克的诡计,动作游戏,Naughty Dog Software/Sony Computer Entertainment,148,55,
+夏日课堂,模拟游戏,Namco Bandai,166,36, 美少女 VR
+正当防卫,第三人称射击,Avalanche/Square Enix,157,45, 沙盒 射击 开放世界 动作 氛围 经典 多人
+寂静岭2,动作游戏,Konami,140,61, 3D 恐怖
+仙剑奇侠传5,角色扮演,北京软星/百游汇通,104,97, 国产 剑侠 角色扮演 回合制
+信长之野望14：创造,策略游戏,Koei Tecom Games,138,61, 策略 历史
+马克思佩恩3,第三人称射击,Rockstar Studios/Rockstar Games,113,86, 剧情丰富 子弹时间 多人 好评原声音乐 动作 开放世界 第三人称视角
+蝙蝠侠：阿甘之城,动作游戏,Rocksteady/华纳兄弟,95,104, 漫画英雄 蝙蝠侠 科幻 3D 动作冒险 改编 3D视觉
+德军总部：旧血脉,第一人称射击,MachineGames/Bethesda,120,78, 科幻 二战 潜行 搞笑 战争 冒险 氛围
+马里奥网球Aces,体育游戏,任天堂,132,65,
+恶魔城：暗影之王2,动作游戏,Mercury Steam/Konami,95,102, 吸血鬼 奇幻
+进化,第一人称射击,Turtle Rock Studios/2K,143,52, 生存 科幻 战术 休闲 潜行 射击 第三人称视角
+使命召唤3,第一人称射击,Treyarch/Activision,157,38, 二战
+毛线小精灵2,动作游戏,EA,162,32, 横版卷轴 奇幻
+幼儿园,冒险游戏,Connor Boyle、Sean Young/SmashGames,171,23, 剧情丰富 Early Access 策略 单人 黑色喜剧 黑色幽默 解谜
+H1Z1：杀戮之王,动作游戏,Daybreak Game Company,139,54, 大逃杀 丧尸 生存 沙盒
+星际争霸,即时战略,暴雪,74,119, 未来战争 电子竞技 局域网联机 科幻
+洛克人11,动作游戏,CAPCOM,135,55, 动作 硬核 横版卷轴 漫画风格 科幻
+归家异途,冒险游戏,TPP Studio,133,57, 独立游戏 角色扮演 类Rogue 二維 休闲 策略 第三人称视角
+老鼠模拟器,模拟游戏,Visualnoveler,157,32, 独立游戏 3D 恶搞
+新弹丸论破V3,冒险游戏,Spike,123,66, 解谜 黑色喜剧 悬疑惊悚 剧情丰富 推理 氛围 悬疑
+巨影都市,冒险游戏,Granzella Inc./Bandai Namco,160,29, 末世
+零：濡鸦之巫女,冒险游戏,Koei Temco/任天堂,156,32, 恐怖
+小镇惊魂,冒险游戏,Digital Happiness,153,35, 生存恐怖 解谜 悬疑惊悚 恐怖 独立 灵异 氛围
+假面骑士：穿越战争2,角色扮演,万代南梦宫,154,34,
+三国群英传5,策略游戏,宇峻奥汀,165,23, 三国 国产
+最终幻想10：HD重制版,角色扮演,Square Enix,89,97, 冒险 经典 解谜 女主人翁 开放世界 奇幻 日系角色扮演
+NBA 2K13,体育游戏,Visual Concepts/2K Sports,138,48,
+超能队长,冒险游戏,Dontnod Entertainment/Square Enix,123,62, 剧情丰富 免费 氛围 好评原声音乐 点击 冒险 选择取向
+请出示文件,模拟游戏,3909,156,29, 单人 独立 多结局 剧情丰富 休闲 模拟 点击
+子弹风暴,第一人称射击,Epic/EA,117,68, 射击 氛围 第一人称射击 欢乐 动作 好评原声音乐 生存
+弹丸论破：希望的学园和绝望的高中生,冒险游戏,"Spike Chunsoft Co., Ltd.,Abstraction Games/Spike Chunsoft Co., Ltd.",125,59, 悬疑 单人 剧情丰富 搞笑 视觉小说 欢乐 动作
+生化危机：浣熊市行动,第三人称射击,Slant Six/CAPCOM,131,53, 丧尸
+皇牌空战：突击地平线,飞行射击,NAMCO/Namco Bandai,156,28, 现代战争 动作 军事 休闲 战争 多人 控制器
+镜之边缘,动作游戏,EA DICE/EA Games,115,68, 跑酷 科幻 鲜艳 风格化 平台 女主人翁 解谜
+变形金刚：塞伯坦之战,动作游戏,High Moon/Activision,142,41, 科幻 改编
+过山车之星,模拟游戏,Frontier Developments,113,70, 氛围 沙盒 动作 冒险 单人 模拟 好评原声音乐
+恶果之地,冒险游戏,Spacecan Games/心动网络,147,35, 弹幕射击 国产 角色扮演 冒险 动作 可爱 休闲
+黑色洛城,动作游戏,Team Bondi/Rockstar Games,109,73, 角色扮演 3D视觉 推理调查 推理 氛围 单人 过场动画
+蝙蝠侠：内敌,冒险游戏,Telltale Games,122,59, 漫画英雄 改编 超級英雄 第三人称视角 漫画 蝙蝠侠 视觉小说
+神偷4,动作游戏,Eidos Montreal/Square Enix,130,51, 抢劫 潜行 冒险 跑酷 开放世界 中世纪 第一人称射击
+猎杀：对决,第一人称射击,Crytek,131,49, 生存 丧尸 永久死亡 玩家对战 在线合作 合作 西部
+绿色地狱,动作角色扮演,Creepy Jar,132,47, 生存 模拟 独立 Early Access
+噬神者2：狂怒解放,动作游戏,Shift/BANDAI NAMCO,116,63, 单人 合作 第三人称视角 女主人翁 剧情丰富 自创角色 砍杀
+晶体管,动作角色扮演,Supergiant Games,121,58, 动作角色扮演 赛博朋克 女主人翁 氛围 二維 单人 策略
+生化危机0：高清重制版,动作游戏,Capcom,117,61, 恐怖 丧尸 第三人称视角 冒险 经典 生存恐怖 氛围
+战地：硬仗,第一人称射击,Visceral Games/EA,120,58, 电子竞技
+三国志10,策略游戏,KOEI,136,42, 三国 策略
+无主之地,第一人称射击,Gearbox Software/2K Sports,99,78, 动作角色扮演 多人 单机合作 科幻 末日 合作 第一人称射击
+杀出重围：人类分裂,第一人称射击,Square Enix,68,109, 科幻 赛博朋克 动作 第一人称射击 角色扮演 剧情丰富 未来
+口袋妖怪：绿铀,角色扮演,Uranium Team,151,24, 独立游戏 改编
+口袋妖怪：欧米伽红宝石/阿尔法蓝宝石,角色扮演,任天堂,124,50,
+冒险岛2,角色扮演,N Square/腾讯游戏,65,109,
+三国志9,策略游戏,光荣,132,42, 三国 回合制
+蝙蝠侠：阿甘疯人院,动作游戏,"Rocksteady,Feral",97,76, 漫画英雄 科幻 改编 潜行 氛围 动作冒险 类银河战士恶魔城
+巫师之昆特牌：王权的陨落,角色扮演,CDPR/盖娅互娱,97,76, 奇幻 策略 卡牌
+最终幻想世界,角色扮演,Square Enix,107,66, Q版 可爱 单人 日系角色扮演 开放世界 角色扮演 策略
+英雄传说：闪之轨迹4,角色扮演,Falcom,148,25, 日式角色扮演 系列 经典 奇幻
+超级机器人大战V,策略游戏,Namco Bandai,100,72, 科幻
+星球大战：前线,第一人称射击,DICE/EA,134,38, 科幻
+重力眩晕2,动作游戏,SCE,75,96, 3D 奇幻
+合金装备5：原爆点,动作游戏,Konami,93,78, 沙盒 潜入暗杀
+蝙蝠侠：阿甘起源,动作游戏,WB Games Montreal、Splash Damage/Warner Bros.,99,72, 漫画英雄 蝙蝠侠 科幻 改编 剧情丰富 动作冒险 沙盒
+模拟农场18,模拟游戏,Giants Software/Focus Home,144,26, 3D
+光之子,角色扮演,Ubisoft Montréal/Ubisoft,76,94, 二維 平台 角色扮演 休闲 冒险 回合制 好评原声音乐
+蔚蓝,冒险游戏,Matt Makes Games Inc.,110,59, 二維 平台 困难 画素风格 单人 冒险 独立
+在远方：追云者编年史,冒险游戏,Prideful Sloth,122,47, 3D 开放世界 多人 奇幻 探索 冒险 可爱
+神秘海域：德雷克合集,动作游戏,Sony Computer Entertainment,56,111,
+死亡空间,第三人称射击,EA Games/Electronic Arts,94,73, 黑暗 氛围 无声主角 科幻 恐怖 太空 冒险
+风暴英雄,动作游戏,Blizzard,24,143, 奇幻
+闪乱神乐：少女们的选择,动作游戏,MarvelousAQL,102,64, 美少女 3D
+美国卡车模拟,模拟游戏,SCS Software,132,33, 独立游戏 美国 经济 冒险 休闲 拟真 可模组化
+英雄传说：闪之轨迹3,角色扮演,Falcom,145,21, 日式角色扮演 系列 奇幻 经典
+桥梁建筑师传送门,模拟游戏,ClockStone/Headup Games,97,66, 创意 建造 独立游戏 衍生 二維 单人 欢乐
+NBA Live 18,体育游戏,EA Sports/EA,135,28, 3D
+绝地求生：刺激战场,第一人称射击,腾讯光子工作室/腾讯游戏,67,97, 电子竞技 多人 沙盒 生存 大逃杀 玩家对战 第三人称视角
+机械迷城,冒险游戏,Amanita Design,71,92, 解谜 单人 二維 蒸汽朋克 好评原声音乐 冒险 剧情丰富
+神界3：原罪,角色扮演,Larian Studios,63,100, 冒险 策略 单人 多人 在线合作 众筹 魔法
+古剑奇谭2,角色扮演,上海烛龙/GameBar,73,89, 剑侠 国产 角色扮演
+美国职业摔角联盟2K16,体育游戏,Visual Concepts/2K Games,117,44, 单机合作 模拟 搞笑 体育 单人 自创角色 网络爆红
+汤姆克兰西：鹰击长空2,模拟游戏,Ubisoft,135,26, 现代战争
+Blue Reflection：幻舞的少女之剑,角色扮演,Gust,142,18, 美少女
+模拟山羊,动作游戏,Coffee Stain Studios/Coffee Stain Publishing,98,61, 独立游戏 第三人称视角 动作 探索 合作 休闲 阖家
+超级鸡马,益智游戏,Clever Endeavour Games,126,32, 独立游戏 低配置 休闲 冒险 解谜 可爱 策略
+我还活着,动作游戏,Ubisoft Shanghai / Darkworks/Ubisoft,122,36, 生存 动作冒险 氛围 冒险 恐怖 第一人称射击 单人
+真三国无双3,动作游戏,Omega Force/KOEI,110,47, 三国
+光环战争2,即时战略,343工作室/Creative Assembly,95,62, 科幻 3D
+三国群英传2,策略游戏,奥汀科技,105,51, 三国 国产
+超级玛丽,动作游戏,任天堂,76,79, 横版卷轴
+堕落之王,动作角色扮演,Deck 13 City/City Interactive,102,53, 中世纪 动作角色扮演 黑暗奇幻 氛围 开放世界 困难 休闲
+太阁立志传5,策略游戏,Koei/台湾光荣,69,86, 生存
+寂静岭5：归乡,动作游戏,Konami,114,40, 恐怖 生存
+奇异小队,动作游戏,Rebellion,122,30, 冒险 奇幻 合作 丧尸 在线合作 3D 第三人称视角
+游戏王：决斗者遗产,策略游戏,KONAMI,104,48, 改编 回合制 棋牌
+吃鸡模拟器,模拟游戏,Trickjump Games Ltd,125,26, 第一人称射击 模拟 第三人称视角 狙击手 动作 冒险 多人
+钢铁之师：诺曼底44,策略游戏,Eugen Systems/Paradox Interactive,114,36, 战术 动作 开放世界 即时战术 3D 策略 即时战略
+雷曼：传奇,动作游戏,育碧,75,75, 奇幻 音乐 二維 动作 冒险 平台 控制器
+灵山奇缘,角色扮演,腾讯游戏,15,134, 国产 回合制 奇幻 2.5D
+天涯明月刀,角色扮演,腾讯游戏,50,99, 国产 剑侠 改编
+火炬之光,动作角色扮演,Runic Games,92,57, 动作 独立 角色扮演 卡通 魔法 蒸汽朋克 奇幻
+质量效应2,动作角色扮演,Bioware/Electronic Arts,73,75, 科幻
+旁观者,冒险游戏,Warm Lamp Games/Alawar Entertainment,90,57, 选择取向 单人 独立游戏 氛围 点击 反乌托邦 策略
+挺进地牢,动作游戏,Dodge Roll/Devolver Digital,80,67, 好评原声音乐 垂直捲轴射击 独立 多人 动作 射击 画素风格
+讨鬼传：极,动作游戏,Omega Force/Koei Tecmo,81,66, 合作 砍杀 日系角色扮演 日本动画 角色扮演 狩猎 单人
+三国群英传6,策略游戏,宇峻奥汀,132,14, 三国 国产
+重装机兵,角色扮演,Crea-Tech/DATA EAST,65,80, 科幻
+蜘蛛侠：破碎维度,动作游戏,Beenox/Activision,91,54, 改编 漫画英雄 科幻
+仙剑奇侠传5前传,角色扮演,北京软星/百游,57,88, 剑侠 国产
+原谅帽大作战,动作游戏,神亚游戏,131,13, 魔性 国产
+蜡烛人,动作游戏,交典创艺/百家合,96,48, 国产 单线剧情 剧情丰富 独立 动作 3D 平台 单人
+宝藏世界,角色扮演,TrionWorld/360游戏,94,50, 探索 动作 角色扮演 多人 开放世界 沙盒 免费
+模拟人生3：大学生活,模拟游戏,The Sims Studio/Electronic Arts,129,15,
+蝙蝠侠,冒险游戏,Telltale Games,76,67, 单人 选择取向 黑暗 剧情丰富 冒险 视觉小说 漫画
+EVE Online,角色扮演,冰岛CCP/世纪天成,65,78, 未来战争 沙盒 科幻
+阿拉亚,冒险游戏,MAD Virtual Reality Studio,124,18, 恐怖 VR 冒险 独立游戏 虚拟现实 动作 独立
+教团：1886,动作游戏,Ready at Dawn/索尼,59,83, 蒸汽朋克 奇幻
+最终幻想14：重生之境,角色扮演,Square Enix,54,88, 奇幻
+不义联盟：我们之中的神,格斗游戏,NetherRealm Studios/Warner Bros.Interactive,106,35, 控制器 2D 格斗 动作 超級英雄 3D视觉 氛围 假3D
+篱笆庄秘闻,冒险游戏,橙光游戏,90,49, 2D 国产 解谜
+驾驶俱乐部,竞速游戏,Evolution Studio,91,48,
+兽人必须死2,动作游戏,Robot Entertainment,107,32, 塔防 奇幻 角色扮演 第三人称视角 合作 动作 射击
+瑞奇与叮当,动作游戏,Insomniac Games/Sony,59,79, 科幻
+御侠客,角色扮演,甲山林娱乐,52,85, 国产 养成 武侠 角色扮演 独立游戏
+坦克世界,第三人称射击,Wargaming/空中网,41,96, 现代战争
+战争之人：突击小队2,即时战略,Digitalmindsoft/1C Company,97,40, 二战 战争 困难 单人 经典 动作 策略
+战争之人：突击小队2,即时战略,Digitalmindsoft/1C Company,97,40, 二战 战争 困难 单人 经典 动作 策略
+说谎公主与盲眼王子,动作游戏,Nippon Ichi Software/世嘉,110,26, 奇幻 横版卷轴
+汽车修理工模拟2018,模拟游戏,Red Dot Games/PlayWay S.A.,112,24, 拟真 建造 竞速 策略 开放世界 网络爆红 多人
+口袋铁拳锦标赛DX,格斗游戏,任天堂,105,31, 3D 奇幻
+地下城与勇士,动作游戏,Neople/腾讯游戏,31,105, 横版卷轴 奇幻 电子竞技
+生化危机3,动作游戏,Capcom,71,65, 丧尸 恐怖
+海岛大亨5,模拟游戏,Haemimont Games/Kalypso Media Digital,75,61, 沙盒 策略 管理 开放世界 局域网联机 政治 多人
+战术小队,动作游戏,Offworld Industries,100,35, 大型多人在线 独立游戏 多人 战争 现代战争 拟真 军事
+仙剑奇侠传3外传：问情篇,角色扮演,上海软星/寰宇之星,91,44, 国产 回合制 剑侠
+尘埃拉力赛,竞速游戏,"Codemasters Racing Studio,Feral Interactive (Linux),Feral Interactive (Mac)/Codemasters,Feral Interactive (Linux),Feral Interactive (Mac)",92,42, 驾驶 单人 虚拟现实 快节奏 3D视觉 TrackIR 开放世界
+魔法门之英雄无敌7,策略游戏,Limbic Entertainment/Ubisoft,86,48, 回合制 奇幻 合作 多人 经典 剧情丰富 策略
+星际争霸2：虚空之遗,即时战略,暴雪,25,109, 电子竞技 未来战争 科幻
+爱丽丝：疯狂回归,动作游戏,Spicy Horse/Electronic Arts,52,82, 奇幻
+地铁：归来,第一人称射击,4A Games/Deep Silver,80,53, 硬件杀手 末世
+建筑模拟2015,模拟游戏,weltenbauer. Software Entwicklung GmbH/astragon Entertainment GmbH,102,31, 驾驶 管理 模拟 单人 休闲 多人 开放世界
+尼内岛：大逃杀,第一人称射击,Define Human Studios,116,16, 第一人称射击 射击 生存 独立 3D 动作 Early Access
+质量效应,动作角色扮演,Bioware/Electronic Arts,82,50, 单人 动作 好评原声音乐 动作角色扮演 第三人称视角 选择取向 女主人翁
+泰坦之旅：不朽王座,动作角色扮演,Iron Lore/THQ,58,74, 奇幻
+使命召唤,第一人称射击,Infinity Ward/Activision,74,58, 局域网联机 二战
+拳皇2002：终极对决,格斗游戏,SNK Playmore,95,36,
+极限竞速5,竞速游戏,Turn 10 Studios/Microsoft Studios,103,28, 赛车 竞速 3D
+进化之地2,角色扮演,Shiro Games,93,37, 剧情丰富 谐仿 动作 角色扮演 奇幻 画素风格 时空旅行
+消逝的光芒：邪恶之血,第一人称射击,Techland/Techland Publishing,107,22, 沙盒 末世 丧尸 生存
+细胞分裂5：断罪,动作游戏,Ubisoft Montreal/Ubisoft,72,57, 潜入暗杀 科幻 动作
+神秘海域2：纵横四海,动作游戏,Naughty Dog/SCE,81,46,
+维京人：人中之狼,角色扮演,Games Farm/Kalypso Media Digital,86,40, 神话 中世纪 垂直卷轴 角色扮演 奇幻 单人 砍杀
+星球基地,模拟游戏,Madruga Works,87,39, 独立游戏 生存 资源管理 开放世界 工艺 沙盒 多人
+阿提拉：全面战争,策略游戏,The Creative Assembly/SEGA,79,47, 历史题材 即时战略 策略 剧情丰富 大型战场 战术 回合制
+超级马里奥制造,角色扮演,Nintendo,92,34, 横版卷轴 复古
+火焰纹章if：白夜王国/暗夜王国,角色扮演,Intelligent System/Nintendo,85,41, 奇幻
+逆战,第一人称射击,腾讯游戏,65,60, 未来战争 科幻
+闪乱神乐：忍乳负重,音乐游戏,Marvelous AQL,101,24, 忍者
+德军总部,第一人称射击,Raven Software/Activision,88,37, 潜入暗杀 二战
+三国志：汉末霸业,策略游戏,LongYou Game Studio/LongYou Tech Ltd,103,21, 三国 独立游戏 国产 大战略 4X 历史 战争
+霸王2,动作游戏,Triumph Studios/Codemasters,97,27, 魔法 黑暗奇幻 第三人称视角 奇幻 单人 动作 冒险
+巫师,角色扮演,CD Projekt Red/Atari,56,67, 中世纪 奇幻
+剪剪世界,益智游戏,SFB Games、Nintendo/Nintendo,65,57, 2D
+怪物猎人X,动作游戏,Capcom,56,66, 奇幻
+闪乱神乐：少女们的证明,动作游戏,"Tamsoft/XSEED,Marvelous",94,28, 美少女
+异形：隔离,第一人称射击,Creative Assembly/SEGA,79,43, 科幻 恐怖 好评原声音乐 VR 悬疑惊悚 动作 潜行
+琼的最后一天,冒险游戏,Ovosonico/505 Games,87,34, 角色扮演 单人 剧情丰富 选择取向 好评原声音乐 点击 过场动画
+龙腾世纪：起源,角色扮演,BioWare/EA,63,58, 奇幻 黑暗奇幻 剧情丰富 团队角色扮演 自创角色 冒险 多结局
+英雄传说：闪之轨迹2,角色扮演,Falcom,71,50, 日式角色扮演 奇幻 系列 经典
+小魔女学园：时之魔法与七不可思议,角色扮演,"APLUS Co., Ltd/Bandai Namco",102,18, 日本动画 角色扮演 可爱 带状卷轴动作 冒险 魔法 动作
+自由禁区,第一人称射击,西山居,89,31, 国产 3D 未来战争 科幻
+极品飞车15：变速2,竞速游戏,Slightly Mad/Electronic Arts,101,19, 电子竞技
+战场女武神,角色扮演,SEGA,60,60, 剧情丰富 回合制 策略 日本动画 好评原声音乐 第三人称视角 爱情
+少数幸运儿,冒险游戏,Compulsion Games/Gearbox Publishing,88,31, 反乌托邦 生存 生存恐怖 工艺 独立 恐怖 程序生成
+金庸群侠传,角色扮演,河洛工作室/智冠科技,68,51, 国产 改编
+新寂静岭,动作游戏,Konami,82,37, 恐怖
+龙珠：怒气爆发2,格斗游戏,Namco Bandai,95,24, 改编
+拿破仑：全面战争,策略游戏,Creative Assembly/SEGA,75,44, 战术 即时战略 策略 军事 多人 战争 大战略
+节奏光剑,音乐游戏,Hyperbolic Magnetism,104,14, 节奏 音乐 虚拟现实 独立 科幻 Early Access 星球大战
+疯狂之冠,策略游戏,S-Game,83,35, 类Rogue 策略 独立 冒险 Early Access
+失落方舟,角色扮演,Smile Gate/腾讯游戏,99,19, 奇幻
+特殊行动：一线生机,第三人称射击,"Yager Development/2K,Missing Link Games",67,51, 战争 剧情丰富 心理 末日 多人 单人 小说改编
+无夜之国2：新月的花嫁,角色扮演,Koei Tecmo,89,28, 美少女 奇幻
+暗黑血统：战神版,动作游戏,THQ Nordic Games,54,63, 奇幻 困难 类银河战士恶魔城 控制器 末日 动作 3D
+阿玛拉王国：惩罚,角色扮演,38 Studios、Big Huge Games/EA,37,80, 奇幻
+勿忘我,动作游戏,Dontnod Entertainment/Capcom,49,67, 冒险 第三人称视角 好评原声音乐 格斗 赛博朋克 科幻 剧情丰富
+街头霸王4,格斗游戏,Capcom,89,27, 改编 科幻 局域网联机
+梦幻模拟战手游,角色扮演,紫龙游戏,10,106, 战棋 策略 奇幻 回合制
+打造世界,策略游戏,Dekovir Entertainment/Black Maple Games,78,37, 横向卷轴 冒险 二維 策略 生存 奇幻 模拟
+合金装备4：爱国者之枪,动作游戏,KOJIMA PRODUCTION/Konami,86,29, 科幻
+阿凡达,第三人称射击,Ubisoft Montreal/育碧,83,32, 科幻 改编 生存 3D
+上古卷轴5：龙裔,角色扮演,Bethesda,56,59, 奇幻
+龙珠VR,动作游戏,万代南梦宫,97,17, 改编 漫画英雄 VR
+Poly Bridge,模拟游戏,Dry Cactus,95,18, 独立游戏 开放世界 Early Access 工艺 搞笑 建造 解谜
+武林群侠传,角色扮演,河洛工作室,35,78, 生存 剑侠
+无尽空间2,策略游戏,Amplitude Studios/SEGA,64,48, 科幻 大战略 好评原声音乐 单人 沙盒 回合制策略 合作
+Ryse：罗马之子,动作游戏,Crytek/Crytek,56,56, 中世纪 局域网联机 罗马 氛围 短片 开放世界 角色扮演
+这是警察2,模拟游戏,Weappy Studio/THQ Nordic,70,42, 独立 独立游戏 策略 冒险
+命运之手2,角色扮演,Defiant Development,73,38, 独立 砍杀 类Rogue 奇幻 单人 动作 纸牌
+脱逃者,策略游戏,Mouldy Toof Studios/Team17 Digital Ltd,90,21, 独立游戏
+极限竞速6：巅峰,竞速游戏,Turn 10/Microsoft,89,21, 赛车 3D 竞速
+约会大作战：或守Install,冒险游戏,Compile Heart,88,22, 美少女 奇幻 改编
+战神1+2典藏版,动作游戏,索尼圣莫妮卡/sony,70,40,
+战争机器,第三人称射击,Epic/Microsoft,61,49, 科幻 未来战争 生存
+轩辕剑外传：汉之云,角色扮演,大宇资讯,93,17, 剑侠 改编 三国 国产
+忍者龙剑传3,动作游戏,Team Ninja/Tecmo,87,23, 忍者
+行尸走肉：米琼恩,冒险游戏,Telltale Games,81,28, 丧尸 分章节 生存 动作 漫画 末日 自选历险体验
+模拟人生2,模拟游戏,Maxis/Electronic Arts,87,22,
+波斯王子5：遗忘之沙,动作游戏,Ubisoft Montreal/Ubisoft,70,39, 动作 冒险 跑酷 平台 奇幻 砍杀 单人
+Rime,冒险游戏,Tequila Works/Grey Box,71,36, 解谜 好评原声音乐 氛围 探索 冒险 单人 奇幻
+超级马里奥派对,模拟游戏,Nintento,71,36,
+Hob,动作游戏,Runic Games,89,17, 冒险 多人 解谜 3D 平台 砍杀 动作角色扮演 动作
+勇者斗恶龙：英雄2,动作游戏,Koei Tecmo Games、ω-Force/Square Enix,63,43, 奇幻
+植物大战僵尸Online,策略游戏,腾讯游戏、五彩石工作室/腾讯游戏,72,34, 丧尸 Q版
+超级情圣,模拟游戏,RLR Training Inc/Red Dahlia Interactive,89,16, 冒险 独立游戏 策略 女主人翁 全动态影像 模拟 欢乐
+要塞：十字军东征2,即时战略,FireFly Studios,73,32, 中世纪 开放世界 单人 经典 历史 动作 氛围
+泰亚史诗,角色扮演,网易游戏,18,86, 国产 2.5D 魔幻
+喷射侠,动作游戏,"Splashteam/Playdius,Plug In Digital",66,38, 2D 平台 独立 横版卷轴 二維 动作 卡通
+战神：夜袭,角色扮演,Airship Syndicate/THQ Nordic,46,58, 改编 迷宫探索 独立 众筹 剧情丰富 好评原声音乐 漫画
+三位一体,动作游戏,Frozenbyte/SouthPeak,40,64, 奇幻 横版卷轴 中世纪 解谜 合作 平台解谜 物理
+428：被封锁的涉谷,冒险游戏,"Spike Chunsoft Co., Ltd.,Abstraction Games/Spike Chunsoft",65,38, 3D 视觉小说 冒险 美少女 悬疑 文字
+闪乱神乐：沙滩戏水,动作游戏,MarvelousAQL Inc.,74,29, 美少女 日本动画 自创角色 单人 女主人翁 动作 射击
+杀手4：血钱,动作游戏,Io Interactive/Eidos,62,41, 潜入暗杀 第三人称视角 困难 Masterpiece 暗杀 射击 策略
+双星物语2,动作角色扮演,FALCOM,63,40, Q版 动作 奇幻 好评原声音乐 日本动画 可爱 日系角色扮演
+迷你忍者,动作游戏,IO Interactive/Square Enix,73,30, Q版 忍者 潜行 单人 控制器 阖家 可爱
+地痞街区,角色扮演,Matt Dabrowski/tinyBuild,71,31, 角色扮演 好评原声音乐 独立 冒险 动作 二維 程序生成
+口袋铁拳锦标赛,格斗游戏,NBGI、任天堂,80,22, 奇幻
+乐高蝙蝠侠3：哥谭之上,动作游戏,Traveller's Tales/华纳兄弟,74,28, 超級英雄 蝙蝠侠 阖家 单人 多人 欢乐 搞笑
+大航海时代4,角色扮演,KOEI,35,67,
+龙珠英雄：终极任务,策略游戏,Namco Bandai,82,20, 改编 奇幻
+ARMS,格斗游戏,任天堂,47,54,
+叛乱,第一人称射击,New World InTeractive,44,56, 合作 策略 团队导向 竞技 射击 在线合作 独立
+科林麦克雷：尘埃2,竞速游戏,Codemasters,68,33, 硬件杀手
+史丹利的寓言,冒险游戏,Galactic Cafe,61,40, 独立 记叙 动态记叙 搞笑 单人 超现实 氛围
+变形金刚：毁灭,动作游戏,白金工作室/Activision,75,25, 科幻 改编
+QQ飞车,竞速游戏,琳琅天上/腾讯游戏,47,53, 国产
+石炉,即时战略,Radiant Entertainment,75,25, 沙盒 生存
+以撒的结合,动作角色扮演,Edmund McMillen、Florian Himsl/Edmund McMillen,76,24, 轻度Rogue 迷宫探索 永久死亡 局域网联机 程序生成 困难 垂直卷轴
+王者荣耀,角色扮演,腾讯游戏,28,72, 多人 国产 联机 MOBA 奇幻
+潮汐之王,第一人称射击,Digital Confectioners,81,18, 独立游戏
+魂斗罗,动作游戏,Konami,42,57, 横版卷轴 科幻 改编
+超级弹丸论破2：再见了绝望学园,冒险游戏,"Spike Chunsoft Co., Ltd.,Abstraction Games/Spike Chunsoft Co., Ltd.",62,37, 奇幻 好评原声音乐 视觉小说 恋爱模拟 恐怖 黑暗 悬疑
+美国职业摔角联盟2K19,体育游戏,2K Sports/2K Games,74,25,
+口袋妖怪GO,角色扮演,"Niantic,Inc./The Pokemon Company",82,16,
+ELEX,动作角色扮演,Piranha Bytes/THQ Nordic,66,33, 沙盒 奇幻 第三人称视角 动作 末日 剧情丰富 氛围
