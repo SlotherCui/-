@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/学习/java文件夹/java_swing外观包/liquidlnf-2.9.1/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="D:/学习/java文件夹/java_swing外观包/quaqua-7.4.2.nested/quaqua-7.4.2/Quaqua/dist/quaqua.jar"/>
+	<classpathentry kind="lib" path="D:/学习/java文件夹/java_swing外观包/quaqua-7.4.2.nested/quaqua-7.4.2/Quaqua/dist/quaqua-filechooser-only.jar"/>
+	<classpathentry kind="lib" path="D:/学习/java文件夹/java_swing外观包/quaqua-7.4.2.nested/quaqua-7.4.2/Quaqua/dist/quaqua-test.jar"/>
+	<classpathentry kind="lib" path="D:/学习/java文件夹/java_swing外观包/quaqua-7.4.2.nested/quaqua-7.4.2/Quaqua/dist/swing-layout.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Desktop/我的图书馆/我的图书馆/程序备份/library/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="F:/fangyiru/workspace/libraryMS_fyiru/mysql-connector-java-5.1.18.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SearchCl</servlet-name>
+    <servlet-class>library.wtz.action.SearchCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SearchCl1</servlet-name>
+    <servlet-class>library.wtz.action.SearchCl1</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BuildImageServlet</servlet-name>
+    <servlet-class>library.wtz.action.BuildImageServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CodePicServlet</servlet-name>
+    <servlet-class>library.wtz.action.CodePicServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginCl</servlet-name>
+    <servlet-class>library.wtz.action.LoginCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginStateCl</servlet-name>
+    <servlet-class>library.wtz.action.LoginStateCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetPasswdCl</servlet-name>
+    <servlet-class>library.wtz.action.GetPasswdCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateUserInfo</servlet-name>
+    <servlet-class>library.wtz.action.UpdateUserInfo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ReborrowCl</servlet-name>
+    <servlet-class>library.wtz.action.ReborrowCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>OrderCl</servlet-name>
+    <servlet-class>library.wtz.action.OrderCl</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CancelOrderCl</servlet-name>
+    <servlet-class>library.wtz.action.CancelOrderCl</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>SearchCl</servlet-name>
+    <url-pattern>/SearchCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SearchCl1</servlet-name>
+    <url-pattern>/SearchCl1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BuildImageServlet</servlet-name>
+    <url-pattern>/BuildImageServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CodePicServlet</servlet-name>
+    <url-pattern>/CodePicServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginCl</servlet-name>
+    <url-pattern>/LoginCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginStateCl</servlet-name>
+    <url-pattern>/LoginStateCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetPasswdCl</servlet-name>
+    <url-pattern>/GetPasswdCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateUserInfo</servlet-name>
+    <url-pattern>/UpdateUserInfo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReborrowCl</servlet-name>
+    <url-pattern>/ReborrowCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OrderCl</servlet-name>
+    <url-pattern>/OrderCl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CancelOrderCl</servlet-name>
+    <url-pattern>/CancelOrderCl</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

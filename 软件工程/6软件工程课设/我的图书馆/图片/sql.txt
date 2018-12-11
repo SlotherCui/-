@@ -1,0 +1,107 @@
+
+			if(method.equals("作者")){
+			    if(!libId.equals("")){//不是所有馆藏地
+			    	if(!language.equals("所有书刊")){
+				    	sql="select top "+pageSize+" * from book where (book_author like '%"+key+"%'"+
+				    	" or book_translator like '%"+key+"%') and book_language="+language+" and book_lib_id="+libId+
+				    	" and book_id not in(select top "+(pageNow-1)*pageSize+" book_id from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_language="+language+" and book_lib_id="+libId+" order by "+ordermethod+" "+order+") order by "+ordermethod+" "+order;
+//				    	ps=ct.prepareStatement(sql);
+			    	}else{
+			    		sql="select top "+pageSize+" * from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_lib_id="+libId+
+				    	" and book_id not in(select top "+(pageNow-1)*pageSize+" book_id from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_lib_id="+libId+")";
+				    	ps=ct.prepareStatement(sql);
+			    	}
+			    }else{//所有馆藏地
+			    	if(!language.equals("所有书刊")){
+			    		System.out.println("按作者查询所有馆藏地非所有书刊");
+			    		sql="select top "+pageSize+" * from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_language="+language+
+				    	" and book_id not in(select top "+(pageNow-1)*pageSize+" book_id from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_language="+language+")";
+				    	ps=ct.prepareStatement(sql);
+			    	}else{//文献类型为所有书刊
+			    		System.out.println("按作者查询所有馆藏地所有书刊");
+			    		sql="select top "+pageSize+" * from book where (book_author like ?" +
+				    	" or book_translator like ?)"+
+				    	" and book_id not in(select top "+(pageNow-1)*pageSize+" book_id from book where (book_author like ?" +
+				    	" or book_translator like ?))";
+				    	ps=ct.prepareStatement(sql);
+			    	}
+			    }
+//			    ps.setString(1, "%"+key+"%");
+//			    ps.setString(2, "%"+key+"%");
+			    
+			}else if(method.equals("ISBN")){
+				if(!libId.equals("")){//不是所有馆藏地
+			    	if(!language.equals("所有书刊")){
+			    		sql="select top "+pageSize+" * from book where book_isbn="+key+" and book_language="+language+" and book_lib_id="+libId+
+				    	" and book_id not in(select top "+(pageNow-1)*pageSize+" book_id from book where (book_author like ?" +
+				    	" or book_translator like ?) and book_language="+language+" and book_lib_id="+libId+")";
+				    	ps=ct.prepareStatement(sql);
+			    	}else{
+			    		sql="select count(*) from book where book_isbn=? and book_lib_id="+libId;
+				    	ps=ct.prepareStatement(sql);
+			    	}
+			    }else{//所有馆藏地
+			    	if(!language.equals("所有书刊")){
+			    		System.out.println("按ISBN查询所有馆藏地非所有书刊");
+				    	sql="select count(*) from book where book_isbn=? and book_language="+language;
+				    	ps=ct.prepareStatement(sql);
+			    	}else{//文献类型为所有书刊
+			    		System.out.println("按ISBN查询所有馆藏地所有书刊");
+			    		sql="select count(*) from book where book_isbn=?";
+				    	ps=ct.prepareStatement(sql);
+			    	}
+			    }
+			    ps.setString(1, key);
+			}else if(method.equals("书名")){
+				if(model.equals("前方一致")){
+					if(!libId.equals("")){//不是所有馆藏地
+				    	if(!language.equals("所有书刊")){
+					    	sql="select count(*) from book where book_name like ? and book_language="+language+" and book_lib_id="+libId;
+					    	ps=ct.prepareStatement(sql);
+				    	}else{
+				    		sql="select count(*) from book where book_name like ? and book_lib_id="+libId;
+					    	ps=ct.prepareStatement(sql);
+				    	}
+				    }else{//所有馆藏地
+				    	if(!language.equals("所有书刊")){
+				    		System.out.println("按前方一致书名查询所有馆藏地非所有书刊");
+					    	sql="select count(*) from book where book_name like ? and book_language="+language;
+					    	ps=ct.prepareStatement(sql);
+				    	}else{//文献类型为所有书刊
+				    		System.out.println("按前方一致书名查询所有馆藏地所有书刊");
+				    		sql="select count(*) from book where book_name like ?";
+					    	ps=ct.prepareStatement(sql);
+				    	}
+				    }
+				    ps.setString(1, "%"+key+"%");
+				}else{ //完全匹配
+					if(!libId.equals("")){//不是所有馆藏地
+				    	if(!language.equals("所有书刊")){
+					    	sql="select count(*) from book where book_name=? and book_language="+language+" and book_lib_id="+libId;
+					    	ps=ct.prepareStatement(sql);
+				    	}else{
+				    		sql="select count(*) from book where book_name=? and book_lib_id="+libId;
+					    	ps=ct.prepareStatement(sql);
+				    	}
+				    }else{//所有馆藏地
+				    	if(!language.equals("所有书刊")){
+				    		System.out.println("按书名查询所有馆藏地非所有书刊");
+					    	sql="select count(*) from book where book_name=? and book_language="+language;
+					    	ps=ct.prepareStatement(sql);
+				    	}else{//文献类型为所有书刊
+				    		System.out.println("按书名查询所有馆藏地所有书刊");
+				    		sql="select count(*) from book where book_name=?";
+					    	ps=ct.prepareStatement(sql);
+				    	}
+				    }
+				    ps.setString(1, key);
+				}
+			}
+			rs=ps.executeQuery();
+			
+		
