@@ -1,0 +1,41 @@
+CREATE TABLE user (
+	id CHAR(10) NOT NULL PRIMARY KEY,
+	account CHAR(18) NOT NULL,
+	auth CHAR(10) NOT NULL,
+	sex CHAR(1) NOT NULL,
+	name CHAR(5) NOT NULL,
+	schoolnumber CHAR(15) NOT NULL
+);
+
+CREATE TABLE employee(
+	id CHAR(10) NOT NULL PRIMARY KEY,
+	account CHAR(18) NOT NULL,
+	auth CHAR(18) NOT NULL,
+	sex CHAR(1) NOT NULL,
+	name CHAR(5) NOT NULL,
+	status CHAR(5) NOT NULL
+);
+
+CREATE TABLE mission(
+	id CHAR(40) PRIMARY KEY,
+	type CHAR(20),
+  	address VARCHAR(100),
+	question VARCHAR(255),
+	useraccount CHAR(30),
+	workeraccount CHAR(30),
+	starttime TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+	comment VARCHAR(200),
+	status CHAR(10)
+);
+
+CREATE TABLE login(
+	account CHAR(40) PRIMARY KEY,
+	password CHAR(40),
+	sessionid CHAR(40)
+);
+
+
+CREATE TABLE signname(
+	secret CHAR(10),
+	person VARCHAR(255)
+);
